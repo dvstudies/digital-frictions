@@ -1,0 +1,7 @@
+node_modules
+dist
+src/ui_bk
+node_modules
+.env
+_wip
+log.txt

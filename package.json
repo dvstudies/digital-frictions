@@ -1,0 +1,30 @@
+{
+    "name": "digital-frictions",
+    "version": "1.0.0",
+    "description": "client for the Digital F(r)ictions web-app",
+    "type": "module",
+    "homepage": "/",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "deploy": "gh-pages -d dist"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-react": "^4.3.4",
+        "gh-pages": "^6.3.0",
+        "vite": "^6.2.5"
+    },
+    "author": "Iacopo Neri - DVS - UZH",
+    "license": "ISC",
+    "dependencies": {
+        "@emotion/react": "^11.14.0",
+        "@emotion/styled": "^11.14.0",
+        "@mui/icons-material": "^7.0.2",
+        "@mui/material": "^7.0.1",
+        "react": "^18.0.0",
+        "react-dom": "^18.0.0",
+        "react-markdown": "^10.1.0",
+        "vite-plugin-top-level-await": "^1.5.0",
+        "zustand": "^5.0.3"
+    }
+}
