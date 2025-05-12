@@ -1,0 +1,13 @@
+body,
+#root {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    max-height: 100vh;
+    overflow: clip;
+}
+
+.holomorphic {
+    box-shadow: 5px 5px 12px Silver, -5px -5px 12px white;
+}
