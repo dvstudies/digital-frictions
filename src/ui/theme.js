@@ -2,7 +2,33 @@ import { createTheme } from "@mui/material/styles";
 
 // Main dims and colors
 let theme = createTheme({
-    fontFamily: "Work Sans",
+    typography: {
+        fontFamily: "Work Sans",
+    },
+    brdRad: "20px",
+
+    palette: {
+        primary: {
+            main: "#FF6F61",
+            light: "#FF9A8B",
+            dark: "#C94C4C",
+        },
+        secondary: {
+            main: "#6F61FF",
+            light: "#9A8BFF",
+            dark: "#4C4CC9",
+        },
+        white: {
+            light: "#ffffff",
+            main: "#f5f5f5",
+            darker: "#ebebeb",
+        },
+        black: {
+            light: "#000000",
+            main: "#212121",
+            darker: "#000000",
+        },
+    },
 });
 
 export default theme;

@@ -1,3 +1,5 @@
 import { create } from "zustand";
 
-export let useStore = create((set, get) => ({}));
+export let useStore = create((set, get) => ({
+    geodb: [],
+}));

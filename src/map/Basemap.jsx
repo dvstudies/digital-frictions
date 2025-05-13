@@ -1,76 +1,77 @@
 import React from "react";
 import "leaflet/dist/leaflet.css";
 import { MapContainer, TileLayer, Pane } from "react-leaflet";
-import { useEffect, useState, useRef } from "react";
+import { useEffect, useRef } from "react";
 import { useStore } from "../store/useStore";
+import Square from "./Square";
 
 export default function Basemap() {
-    const [geojson, setGeoJSON] = useState(null);
-    const mapview = useStore((state) => state.mapview);
+    const geodb = useStore((state) => state.geodb);
+    const focus = useStore((state) => state.focus);
+    const mapRef = useRef();
+    const containerRef = useRef();
 
     const bounds = [
-        [41.364745, 2.12098],
-        [41.411817, 2.199944],
+        [-4.23, -78.95],
+        [12.53, -66.85],
     ];
 
+    // Trigger Leaflet to recalculate its size
+    // useEffect(() => {
+    //     const map = mapRef.current;
+    //     if (map) {
+    //         setTimeout(() => {
+    //             map.invalidateSize();
+    //         }, 500);
+    //     }
+    // }, [focus]);
+
     useEffect(() => {
-        console.log("loading geojson");
-        fetch("./geojson/locations.geojson")
-            .then((response) => response.json())
-            .then((data) => {
-                // useStore.setState({ locations: data });
-                setGeoJSON(data);
-            })
-            .catch((error) => {});
+        const observer = new ResizeObserver(() => {
+            const map = mapRef.current;
+            if (map) {
+                map.invalidateSize();
+            }
+        });
+
+        if (containerRef.current) {
+            observer.observe(containerRef.current);
+        }
+
+        return () => observer.disconnect();
     }, []);
 
-    useEffect(() => {
-        if (geojson) {
-            const geodb = [];
-
-            for (let i = 0; i < geojson.features.length; i++) {
-                const entry = geojson.features[i];
-                const d = {};
-                d.coords = [...entry.geometry.coordinates];
-                d.site = entry.properties.site;
-                d.cameraCode = entry.properties.cameraCode;
-                geodb.push(d);
-            }
-            useStore.setState({ geodb: geodb });
-        }
-    }, [geojson]);
-
     return (
-        <MapContainer
-            zoom={15}
-            maxZoom={20}
-            zoomControl={false}
-            bounds={bounds}
-            minZoom={15}
-            style={{
-                width: "100%",
-                height: "100%",
-                zIndex: 0,
-            }}
+        <div
+            ref={containerRef}
+            style={{ height: "100%", width: "100%" }}
         >
-            <TileLayer
-                url="https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}@2x.png"
-                // attribution="Map data &copy; OpenStreetMap contributors, under ODbL | Map tiles by &copy; CartoDB, under CC BY 3.0"
-            />
-            <Pane
-                name="topPane"
-                style={{ zIndex: 500 }}
+            <MapContainer
+                zoom={10}
+                bounds={bounds}
+                zoomControl={false}
+                ref={mapRef}
+                style={{
+                    width: "100%",
+                    height: "100%",
+                    zIndex: 0,
+                }}
             >
-                <Places />
-            </Pane>
-            <Pane
-                name="bottomPane"
-                style={{ zIndex: 200 }}
-            >
-                {mapview == "flow" && <Radii />}
-                {mapview == "distribution" && <Distribution />}
-                {mapview == "target" && <Square />}
-            </Pane>
-        </MapContainer>
+                <TileLayer
+                    url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
+                    attribution="Tiles &copy; Esri"
+                />
+
+                {geodb.length > 0 &&
+                    geodb.map((obj, index) => {
+                        return (
+                            <Square
+                                key={index}
+                                obj={obj}
+                            />
+                        );
+                    })}
+            </MapContainer>
+        </div>
     );
 }

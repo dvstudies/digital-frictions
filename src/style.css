@@ -11,3 +11,25 @@ body,
 .holomorphic {
     box-shadow: 5px 5px 12px Silver, -5px -5px 12px white;
 }
+
+/* Attribution on the right side vertical */
+.leaflet-control-attribution {
+    right: 10px !important;
+    bottom: 10px !important;
+
+    writing-mode: vertical-rl;
+    /* transform: rotate(180deg) translateX(50%) !important; */
+    transform: rotate(180deg) !important;
+    white-space: nowrap;
+    font-size: 0.8em;
+    padding: 10px 5px !important;
+    border-radius: 100px;
+    font-family: "Work Sans";
+    border: 1px solid black;
+}
+
+/* Attribution center in the bottom */
+/* .leaflet-control-attribution {
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+} */

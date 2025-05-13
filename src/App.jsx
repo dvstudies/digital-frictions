@@ -1,17 +1,22 @@
 import { useState, useEffect } from "react";
 import { Box, Button } from "@mui/material";
 
-import Basemap from "../map/Basemap";
-import ImageCard from "./ImageCard";
+import Basemap from "./map/Basemap";
+import ImageCard from "./ui/ImageCard";
+import InfoCard from "./ui/InfoCard";
+
+import { useStore } from "./store/useStore";
 
 export default function App() {
-    const [expand, setExpand] = useState(false);
+    const focus = useStore((state) => state.focus);
+    const transitionTime = 0.5;
 
     const boxS = {
         m: 2,
         borderRadius: "20px",
         transition: "all 0.5s ",
         border: "1px solid black",
+        overflow: "hidden",
     };
 
     return (
@@ -28,36 +33,31 @@ export default function App() {
                 <Box
                     sx={{
                         flex: 1,
-                        backgroundColor: "white",
+                        backgroundColor: "whitesmoke",
                         ...boxS,
+                        display: "flex",
+                        justifyContent: "center",
+                        alignItems: "center",
+                        position: "relative",
                     }}
                     className="holomorphic"
                 >
+                    <InfoCard />
                     <Basemap />
                 </Box>
                 <Box
                     sx={{
-                        width: expand ? "100vh" : "0px",
-                        backgroundColor: "lightblue",
+                        width: focus ? "100vh" : "0px",
+                        backgroundColor: "transparent",
                         ...boxS,
                         ml: 0,
-                        mr: expand ? boxS.m : 0,
+                        mr: focus ? boxS.m : 0,
+                        border: focus ? boxS.border : "none",
+                        visibility: focus ? "visible" : "hidden",
                     }}
                 >
-                    <ImageCard />
+                    {focus && <ImageCard focus={focus} />}
                 </Box>
-            </Box>
-            {/* ///////////////////////////////////// */}
-            <Box sx={{ position: "absolute", top: "100px", left: "100px" }}>
-                <Button
-                    variant="contained"
-                    color="primary"
-                    onClick={() => {
-                        setExpand(!expand);
-                    }}
-                >
-                    Hello World
-                </Button>
             </Box>
         </>
     );
