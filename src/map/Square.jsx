@@ -1,4 +1,4 @@
-import { useEffect, useState, useMemo, useLayoutEffect } from "react";
+import { useEffect, useState, useMemo, useLayoutEffect, useRef } from "react";
 import { Circle, Tooltip, LayerGroup } from "react-leaflet";
 import { useMap } from "react-leaflet";
 
@@ -99,9 +99,6 @@ export default function Square({ obj }) {
                             style={{
                                 ...cStyle,
                                 borderRadius: obj.clicked ? "0%" : "100%",
-                            }}
-                            onClick={() => {
-                                clickEffect();
                             }}
                         >
                             <img
