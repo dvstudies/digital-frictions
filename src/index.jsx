@@ -27,6 +27,7 @@ async function init() {
 
         geodb.map((e) => {
             e.found = false;
+            e.clicked = false;
         });
 
         useStore.setState({ geodb });

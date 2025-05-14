@@ -14,8 +14,8 @@ body,
 
 /* Attribution on the right side vertical */
 .leaflet-control-attribution {
-    right: 10px !important;
-    bottom: 10px !important;
+    right: 16px !important;
+    bottom: 16px !important;
 
     writing-mode: vertical-rl;
     /* transform: rotate(180deg) translateX(50%) !important; */
@@ -33,3 +33,11 @@ body,
     left: 50% !important;
     transform: translateX(-50%) !important;
 } */
+
+.leaflet-tooltip {
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.5));
+    opacity: 1 !important;
+}

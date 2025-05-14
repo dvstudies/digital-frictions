@@ -30,7 +30,7 @@ export default function DropdownMenu({
                 },
                 border: `solid 1px black`,
                 backgroundColor: "whitesmoke",
-                opacity: 0.9,
+                opacity: 0.95,
             }}
             MenuProps={{
                 PaperProps: {
