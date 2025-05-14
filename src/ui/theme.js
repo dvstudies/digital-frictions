@@ -6,8 +6,6 @@ const mainW = window.innerWidth - mainM * 2;
 
 const mapRatio = mainW / (mainW - mainH - mainM);
 
-console.log("mainH", mainH);
-
 // Main dims and colors
 let theme = createTheme({
     mainM: `${mainM}px`,
@@ -17,7 +15,7 @@ let theme = createTheme({
     mapRatio,
 
     typography: {
-        fontFamily: "Work Sans",
+        fontFamily: "Cotham Sans",
     },
     brdRad: "20px",
 

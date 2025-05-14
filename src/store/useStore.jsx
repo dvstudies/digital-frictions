@@ -2,6 +2,7 @@ import { create } from "zustand";
 
 export let useStore = create((set, get) => ({
     geodb: [],
+    landing: true,
 
     resetClick: (obj) => {
         const geodb = get().geodb;
