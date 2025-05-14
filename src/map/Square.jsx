@@ -1,5 +1,5 @@
 import { useEffect, useState, useMemo, useLayoutEffect, useRef } from "react";
-import { Circle, Tooltip, LayerGroup } from "react-leaflet";
+import { Circle, Tooltip, LayerGroup, CircleMarker } from "react-leaflet";
 import { useMap } from "react-leaflet";
 
 import { useTheme } from "@mui/material/styles";
@@ -66,9 +66,9 @@ export default function Square({ obj }) {
 
     return (
         <>
-            <Circle
+            <CircleMarker
                 center={[obj.lat, obj.lon]}
-                radius={1000}
+                radius={5}
                 pathOptions={{
                     fillOpacity: 1,
                     fillColor: obj.found ? "transparent" : "white",
@@ -113,7 +113,7 @@ export default function Square({ obj }) {
                         </div>
                     </Tooltip>
                 )}
-            </Circle>
+            </CircleMarker>
         </>
     );
 }
