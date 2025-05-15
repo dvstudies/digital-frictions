@@ -7,7 +7,7 @@ export default {
     plugins: [react(), topLevelAwait()],
     root: "src",
     publicDir: "public",
-    base: "/",
+    base: "/digital-frictions/",
     server: {
         host: true,
         open: !isCodeSandbox,
