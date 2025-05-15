@@ -247,7 +247,7 @@
         "humus": 0.0002973077,
         "caption": "an artwork of a yellow and black painting",
         "title": "#2 De la Serie Homenaje (Triptico )",
-        "author": "Luis Fernando Rold\u00e1n",
+        "author": "Luis Fernando Roldan",
         "date": null,
         "url": "https://artsandculture.google.com/asset/2-de-la-serie-homenaje-triptico/9AEYFovbKx8c1A"
     },
@@ -327,7 +327,7 @@
         "id": 9,
         "lat": 3.5034267259,
         "lon": -76.6262941566,
-        "filename": "4329 - Miguel \u00c1ngel Rojas.jpg",
+        "filename": "4329 - Miguel Angel Rojas.jpg",
         "tropical dry forest": 0.000000665,
         "tropical woodland": 0.0000217422,
         "evergreen mixed forest": 0.0000083098,
@@ -354,10 +354,10 @@
         "sand": 0.0127905849,
         "humus": 0.0121366191,
         "caption": "an artwork of a man ' s head with a black and white background",
-        "title": null,
-        "author": null,
-        "date": null,
-        "url": null
+        "title": "4329",
+        "author": "Miguel Ángel Rojas",
+        "date": 1974,
+        "url": "https://artsandculture.google.com/asset/4329-miguel-%C3%81ngel-rojas/NAHcLSoGoWworg?hl=es"
     },
     {
         "id": 10,
@@ -426,7 +426,7 @@
         "sand": 0.000658551,
         "humus": 0.0000010156,
         "caption": "an artwork of a black metal frame on a wooden floor",
-        "title": "Aara alta, de la serie l\u00ecmites y limitaciones",
+        "title": "Aara alta, de la serie limites y limitaciones",
         "author": "Carlos Rojas",
         "date": "1974",
         "url": "https://artsandculture.google.com/asset/aara-alta-de-la-serie-l%C3%ACmites-y-limitaciones/-AHt8-AenVUV5g"
@@ -463,7 +463,7 @@
         "humus": 0.000344227,
         "caption": "an artwork of a pink, yellow and green painting",
         "title": "Acrilico No 2",
-        "author": "Fanny San\u00edn",
+        "author": "Fanny Sanin",
         "date": null,
         "url": "https://artsandculture.google.com/asset/acrilico-no-2/bgEnGimAOUCWpg"
     },
@@ -498,8 +498,8 @@
         "sand": 0.0014272087,
         "humus": 0.0010397478,
         "caption": "an artwork of a woman with a cat",
-        "title": "Actriz dram\u00e1tica",
-        "author": "Eduardo Ram\u00edrez Villamizar",
+        "title": "Actriz dramatica",
+        "author": "Eduardo Ramirez Villamizar",
         "date": "1950",
         "url": "https://artsandculture.google.com/asset/actriz-dram%C3%A1tica/XgGxOB1Z_NE3RA"
     },
@@ -535,7 +535,7 @@
         "humus": 0.000119216,
         "caption": "an artwork of a woman in a red jacket",
         "title": "Adolescente",
-        "author": "Andr\u00e9s de Santa Mar\u00eda",
+        "author": "Andres de Santa Maria",
         "date": null,
         "url": "https://artsandculture.google.com/asset/adolescente/3QHvwCNgl_WRsQ"
     },
@@ -571,7 +571,7 @@
         "humus": 0.0153919083,
         "caption": "an artwork of a red poppy flower",
         "title": "Amapola Hurt so bad",
-        "author": "Pedro Ru\u00edz",
+        "author": "Pedro Ruiz",
         "date": null,
         "url": "https://artsandculture.google.com/asset/amapola-hurt-so-bad/iQFMWa-I3T0gvA"
     },
@@ -679,7 +679,7 @@
         "humus": 0.0008185166,
         "caption": "an artwork of a painting with red and green colors",
         "title": "Amazonia",
-        "author": "Mar\u00eda Eugenia Arr\u00eda",
+        "author": "Maria Eugenia Arria",
         "date": null,
         "url": "https://artsandculture.google.com/asset/amazonia/YwHOayuX06BNsg"
     },
@@ -787,7 +787,7 @@
         "humus": 0.0041640147,
         "caption": "an artwork of a parrot perched on a chair",
         "title": "Autoretrato con modelo",
-        "author": "H\u00e9ctor Giuffre",
+        "author": "Hector Giuffre",
         "date": null,
         "url": "https://artsandculture.google.com/asset/autoretrato-con-modelo/sgHQZGVV7TfMcQ"
     },
@@ -1039,7 +1039,7 @@
         "humus": 0.0016703983,
         "caption": "an artwork of apples and oranges in a vase",
         "title": "Bodegon",
-        "author": "Teresa (Teye) Cu\u00e9llar",
+        "author": "Teresa (Teye) Cuellar",
         "date": null,
         "url": "https://artsandculture.google.com/asset/bodegon/gQGI2M1aJZ5rjw"
     },
@@ -1074,7 +1074,7 @@
         "sand": 0.0067344795,
         "humus": 0.0004720651,
         "caption": "an artwork of a painting of flowers on a table",
-        "title": "Bodeg\u00f3n",
+        "title": "Bodegon",
         "author": "Francisco Antonio Cano",
         "date": "1912",
         "url": "https://artsandculture.google.com/asset/bodeg%C3%B3n/5gH8yHYjdUFB9Q"
@@ -1111,7 +1111,7 @@
         "humus": 0.0001206392,
         "caption": "an artwork of a man walking on a bridge",
         "title": "Bogota",
-        "author": "Mar\u00eda Clara G\u00f3mez",
+        "author": "Maria Clara Gomez",
         "date": null,
         "url": "https://artsandculture.google.com/asset/bogota/hAH5QSrCCCOzEA"
     },
@@ -1147,7 +1147,7 @@
         "humus": 0.0018718456,
         "caption": "an artwork of a mountain scene with a tree",
         "title": "Boqueron sumapaz",
-        "author": "marco ospina",
+        "author": "Marco Ospina",
         "date": null,
         "url": "https://artsandculture.google.com/asset/boqueron-sumapaz/RwFfiDrG_TLYIQ"
     },
@@ -1183,7 +1183,7 @@
         "humus": 0.0596961763,
         "caption": "an artwork of two large red cylinders",
         "title": "Boundaries",
-        "author": "Pedro Ru\u00edz",
+        "author": "Pedro Ruiz",
         "date": null,
         "url": "https://artsandculture.google.com/asset/boundaries/mgFlEpFiDGJ56A"
     },
@@ -1219,7 +1219,7 @@
         "humus": 0.0019109397,
         "caption": "an artwork of a man in a yellow truck",
         "title": "Cabina 21",
-        "author": "Jos\u00e9 Antonio D\u00e1vila",
+        "author": "Jose Antonio Davila",
         "date": null,
         "url": "https://artsandculture.google.com/asset/cabina-21/ogE8kVy_wLxBeA"
     },
@@ -1327,7 +1327,7 @@
         "humus": 0.0099901421,
         "caption": "an artwork of a man with a yellow shirt",
         "title": "Caligrafia",
-        "author": "lola fern\u00e1ndez",
+        "author": "lola fernandez",
         "date": null,
         "url": "https://artsandculture.google.com/asset/caligrafia/-AEMhfDADjpqQw"
     },
@@ -1407,7 +1407,7 @@
         "id": 40,
         "lat": 5.1203941371,
         "lon": -67.8677223193,
-        "filename": "Cama - Santiago Uribe V\u00e9lez, 1958.jpg",
+        "filename": "Cama - Santiago Uribe Velez, 1958.jpg",
         "tropical dry forest": 0.0000038223,
         "tropical woodland": 0.0000028434,
         "evergreen mixed forest": 0.0000021143,
@@ -1434,16 +1434,16 @@
         "sand": 0.182530892,
         "humus": 0.0069247886,
         "caption": "an artwork of the word cama on a wooden floor",
-        "title": null,
-        "author": null,
-        "date": null,
-        "url": null
+        "title": "Cama",
+        "author": "Santiago Uribe Velez",
+        "date": "1958",
+        "url": "https://artsandculture.google.com/asset/cama-santiago-uribe-v%C3%A9lez-1958/HgFOMBKrsdfxaQ?hl=es-419"
     },
     {
         "id": 41,
         "lat": 5.4797202284,
         "lon": -76.6262941566,
-        "filename": "Campesinos sin tierra - Efrain (Egar) Garc\u00eda, 1931.jpg",
+        "filename": "Campesinos sin tierra - Efrain (Egar) Garcia, 1931.jpg",
         "tropical dry forest": 0.0013022519,
         "tropical woodland": 0.0167045024,
         "evergreen mixed forest": 0.0011207475,
@@ -1470,10 +1470,10 @@
         "sand": 0.0032604609,
         "humus": 0.0267853833,
         "caption": "an artwork of a group of men in a jungle",
-        "title": null,
-        "author": null,
-        "date": null,
-        "url": null
+        "title": "Campesinos sin tierra",
+        "author": "Efrain (Egar) Garcia",
+        "date": "1931",
+        "url": "https://artsandculture.google.com/asset/campesinos-sin-tierra-0092/PwFPotr1xCyjtA"
     },
     {
         "id": 42,
@@ -1587,7 +1587,7 @@
         "id": 45,
         "lat": 4.1771631472,
         "lon": -77.1652831928,
-        "filename": "Caracol - Eduardo Ram\u00edrez Villamizar.jpg",
+        "filename": "Caracol - Eduardo Ramirez Villamizar.jpg",
         "tropical dry forest": 0.0000002152,
         "tropical woodland": 0.0000111413,
         "evergreen mixed forest": 0.0000020435,
@@ -1614,10 +1614,10 @@
         "sand": 0.0000226832,
         "humus": 0.0000020832,
         "caption": "an artwork of a group of three pieces of wood",
-        "title": null,
-        "author": null,
-        "date": null,
-        "url": null
+        "title": "Caracol",
+        "author": "Eduardo Remirez Villamizar",
+        "date": "1985",
+        "url": "https://artsandculture.google.com/asset/caracol-eduardo-ram%C3%ADrez-villamizar/UwHC4n9zmTdq7g?hl=es-419"
     },
     {
         "id": 46,
@@ -1795,7 +1795,7 @@
         "humus": 0.0000212869,
         "caption": "an artwork of a landscape with a blue sky",
         "title": "Coleccion de REcuerdos Ensamblados",
-        "author": "Carlos Nari\u00f1o",
+        "author": "Carlos Narino",
         "date": null,
         "url": "https://artsandculture.google.com/asset/coleccion-de-recuerdos-ensamblados/zAF7HyANUTVV_A"
     },
@@ -1831,7 +1831,7 @@
         "humus": 0.0104305201,
         "caption": "an artwork of a piece of paper with a torn piece of paper",
         "title": "Collage No.23",
-        "author": "\u00c1lvaro Herr\u00e1n",
+        "author": "Alvaro Herran",
         "date": null,
         "url": "https://artsandculture.google.com/asset/collage-no-23/QQErSi384K62Zw"
     },
@@ -2011,7 +2011,7 @@
         "humus": 0.0004070598,
         "caption": "an artwork of a painting with a blue and yellow background",
         "title": "Columnas",
-        "author": "Mar\u00eda Teresa Vieco",
+        "author": "Maria Teresa Vieco",
         "date": null,
         "url": "https://artsandculture.google.com/asset/columnas/6wFx6hgW55_Tig"
     },
@@ -2083,7 +2083,7 @@
         "humus": 0.0082950914,
         "caption": "an artwork of a painting with yellow and black colors",
         "title": "Composicion",
-        "author": "Mar\u00eda Teresa Regueiros",
+        "author": "Maria Teresa Regueiros",
         "date": null,
         "url": "https://artsandculture.google.com/asset/composicion/aQG8-StpBxFsFw"
     },
@@ -2119,7 +2119,7 @@
         "humus": 0.0052115603,
         "caption": "an artwork of a street in the village of saint - paul",
         "title": "Composicion San Roque Cartagena",
-        "author": "Ricardo G\u00f3mez",
+        "author": "Ricardo Gomez",
         "date": null,
         "url": "https://artsandculture.google.com/asset/composicion-san-roque-cartagena/ngH2xfHYOolDLA"
     },
@@ -2154,10 +2154,10 @@
         "sand": 0.0027035556,
         "humus": 0.0002039331,
         "caption": "an artwork of a river with a mountain in the background",
-        "title": null,
-        "author": null,
-        "date": null,
-        "url": null
+        "title": "Confluencia de río grande y de río chico _provincia de Antioquia _",
+        "author": "Enrique Price",
+        "date": "1852",
+        "url": "https://artsandculture.google.com/asset/confluencia-de-ri%CC%81o-grande-y-de-ri%CC%81o-chico-provincia-de-antioquia-enrique-price-henry-price-1819-1863/0gHIR0ZKwz21zg"
     },
     {
         "id": 61,
@@ -2407,7 +2407,7 @@
         "humus": 0.0005692285,
         "caption": "an artwork of a painting with lots of paint",
         "title": "De la Serie homenaje (Triptico #1)",
-        "author": "Luis Fernando Rold\u00e1n",
+        "author": "Luis Fernando Roldan",
         "date": null,
         "url": "https://artsandculture.google.com/asset/de-la-serie-homenaje-triptico-1/JQEKfBxu7DwosA"
     },
@@ -2443,7 +2443,7 @@
         "humus": 0.000045866,
         "caption": "an artwork of a painting with lots of paint",
         "title": "De la Serie homenaje (Triptico #3)",
-        "author": "Luis Fernando Rold\u00e1n",
+        "author": "Luis Fernando Roldan",
         "date": null,
         "url": "https://artsandculture.google.com/asset/de-la-serie-homenaje-triptico-3/RwG2h7ca2obb6Q"
     },
@@ -2587,7 +2587,7 @@
         "humus": 0.0111641277,
         "caption": "an artwork of a nude female sitting on a rock",
         "title": "Desnudo",
-        "author": "Ignacio G\u00f3mez Jaramillo",
+        "author": "Ignacio Gomez Jaramillo",
         "date": null,
         "url": "https://artsandculture.google.com/asset/desnudo/RwH891bBmr--FA"
     },
@@ -2631,7 +2631,7 @@
         "id": 74,
         "lat": 5.9737936041,
         "lon": -76.1322208735,
-        "filename": "Dicen que recordar en vivir - Recuerda que vas a Morir - Alfredo Nu\u00f1ez, 1977.jpg",
+        "filename": "Dicen que recordar en vivir - Recuerda que vas a Morir - Alfredo Nunez, 1977.jpg",
         "tropical dry forest": 0.0000011822,
         "tropical woodland": 0.0001149732,
         "evergreen mixed forest": 0.0002193683,
@@ -2658,10 +2658,10 @@
         "sand": 0.000219571,
         "humus": 0.0000261124,
         "caption": "an artwork of a piece of paper with a blue and white pattern",
-        "title": null,
-        "author": null,
-        "date": null,
-        "url": null
+        "title": "Dicen que recordar en vivir - Recuerda que vas a Morir",
+        "author": "Alfredo Nunez",
+        "date": "1977",
+        "url": "https://artsandculture.google.com/asset/dicen-que-recordar-en-vivir-recuerda-que-vas-a-morir-alfredo-nu%C3%B1ez-1977/UgGTv0z0L4uWtg?hl=es-419"
     },
     {
         "id": 75,
@@ -2694,7 +2694,7 @@
         "sand": 0.192599301,
         "humus": 0.030145541,
         "caption": "an artwork of a white and orange square",
-        "title": "Dimensi\u00f3n aleatoria",
+        "title": "Dimension aleatoria",
         "author": "Cecilia Coronel",
         "date": "1940",
         "url": "https://artsandculture.google.com/asset/dimensi%C3%B3n-aleatoria/gAHqPxdXCe2URw"
@@ -2911,7 +2911,7 @@
         "humus": 0.0212944462,
         "caption": "an artwork of a still life with a bottle, a bottle, a bowl, and a knife",
         "title": "El Jarro Azul",
-        "author": "Jorge El\u00edas Triana",
+        "author": "Jorge Elias Triana",
         "date": null,
         "url": "https://artsandculture.google.com/asset/el-jarro-azul/VgE6-bgxEXtL4g"
     },
@@ -2919,7 +2919,7 @@
         "id": 83,
         "lat": 6.6475300254,
         "lon": -72.1796346084,
-        "filename": "El Pe\u00f1ol - Rodrigo Callejas, 1951.jpg",
+        "filename": "El Penol - Rodrigo Callejas, 1951.jpg",
         "tropical dry forest": 0.0005303281,
         "tropical woodland": 0.0121875963,
         "evergreen mixed forest": 0.002409017,
@@ -2946,10 +2946,10 @@
         "sand": 0.000561808,
         "humus": 0.0007472717,
         "caption": "an artwork of a mountain with a blue sky",
-        "title": null,
-        "author": null,
-        "date": null,
-        "url": null
+        "title": "El Peñol",
+        "author": "Rodrigo Callejas",
+        "date": "1981",
+        "url": "https://artsandculture.google.com/asset/el-pe%C3%B1ol-rodrigo-callejas-1951/HQHeM0PFkS9NEQ?hl=es"
     },
     {
         "id": 84,
@@ -2982,8 +2982,8 @@
         "sand": 0.0807626991,
         "humus": 0.001641465,
         "caption": "an artwork of a cat and a dog",
-        "title": "El s\u00edmbolo m\u00e1s",
-        "author": "Jaime \u00c1vila",
+        "title": "El simbolo mas",
+        "author": "Jaime Avila",
         "date": "1999",
         "url": "https://artsandculture.google.com/asset/el-s%C3%ADmbolo-m%C3%A1s/hQHyAvi85a-2Pg"
     },
@@ -3019,7 +3019,7 @@
         "humus": 0.0000236786,
         "caption": "an artwork of a forest with birds flying in the sky",
         "title": "el sonido del silencio inmemoriam steven heller",
-        "author": "alfonso ariza",
+        "author": "Alfonso Ariza",
         "date": null,
         "url": "https://artsandculture.google.com/asset/el-sonido-del-silencio-inmemoriam-steven-heller/UgFSikQAMBZjmw"
     },
@@ -3127,7 +3127,7 @@
         "humus": 0.0119831743,
         "caption": "an artwork of a plate of fruit and a plate of sliced apples",
         "title": "En Alizarino Oleo Sobre Lienzo",
-        "author": "Teresa (Teye) Cu\u00e9llar",
+        "author": "Teresa (Teye) Cuellar",
         "date": null,
         "url": "https://artsandculture.google.com/asset/en-alizarino-oleo-sobre-lienzo/_QHwpLvaii8q9g"
     },
@@ -3171,7 +3171,7 @@
         "id": 91,
         "lat": 4.581405,
         "lon": -73.2126969277,
-        "filename": "En negro est\u00e1 Isabel - Mar\u00eda de la Paz Jaramillo.jpg",
+        "filename": "En negro esta Isabel - Maria de la Paz Jaramillo.jpg",
         "tropical dry forest": 0.0000069647,
         "tropical woodland": 0.0000140687,
         "evergreen mixed forest": 0.000002011,
@@ -3198,8 +3198,8 @@
         "sand": 0.0713639544,
         "humus": 0.1165666372,
         "caption": "an artwork of a woman with long hair and a necklace",
-        "title": "En negro est\u00e1 Isabel",
-        "author": "Mar\u00eda de la Paz Jaramillo",
+        "title": "En negro esta Isabel",
+        "author": "Maria de la Paz Jaramillo",
         "date": "Siglo XX",
         "url": "https://artsandculture.google.com/asset/en-negro-est%C3%A1-isabel/lgF5ajTy3sGL5w"
     },
@@ -3235,7 +3235,7 @@
         "humus": 0.0116270892,
         "caption": "an artwork of a woman ' s head",
         "title": "Enrique Gonzalez Gutierrez",
-        "author": "Fidolo Gonz\u00e1lez",
+        "author": "Fidolo Gonzalez",
         "date": null,
         "url": "https://artsandculture.google.com/asset/enrique-gonzalez-gutierrez/QwEzq_tlCoNTuA"
     },
@@ -3271,7 +3271,7 @@
         "humus": 0.0252577401,
         "caption": "an artwork of a man in a black shirt",
         "title": "Epifania Beltran de Ramirez",
-        "author": "Delio Ram\u00edrez",
+        "author": "Delio Ramirez",
         "date": null,
         "url": "https://artsandculture.google.com/asset/epifania-beltran-de-ramirez/egEccbwjBDDPyA"
     },
@@ -3379,7 +3379,7 @@
         "humus": 0.0015042693,
         "caption": "an artwork of a man walking in a room",
         "title": "Espacio Comun",
-        "author": "\u00d3scar Danilo Vargas",
+        "author": "Oscar Danilo Vargas",
         "date": null,
         "url": "https://artsandculture.google.com/asset/espacio-comun/IwHF0BvI7DBbeg"
     },
@@ -3423,7 +3423,7 @@
         "id": 99,
         "lat": 4.2669946701,
         "lon": -77.3000304518,
-        "filename": "Esta bienal es un lujo que un pa\u00eds subdesarrollado no se debe dar - Beatriz Gonzalez, 1938.jpg",
+        "filename": "Esta bienal es un lujo que un pais subdesarrollado no se debe dar - Beatriz Gonzalez, 1938.jpg",
         "tropical dry forest": 0.0000015007,
         "tropical woodland": 0.0000038443,
         "evergreen mixed forest": 0.0000439932,
@@ -3450,10 +3450,10 @@
         "sand": 0.0038052603,
         "humus": 0.0000712718,
         "caption": "an artwork of a yellow piece of paper with a black writing on it",
-        "title": null,
-        "author": null,
+        "title": "Esta bienal es un lujo que un país subdesarrollado no se debe dar",
+        "author": "Beatriz Gonzalez",
         "date": null,
-        "url": null
+        "url": "https://artsandculture.google.com/asset/esta-bienal-es-un-lujo-que-un-pa%C3%ADs-subdesarrollado-no-se-debe-dar-beatriz-gonzalez-1938/wQHBRwc4Cw1tnQ?hl=es"
     },
     {
         "id": 100,
@@ -3631,7 +3631,7 @@
         "humus": 0.0000426863,
         "caption": "an artwork of a person flying a kite",
         "title": "Estudio para los banistas",
-        "author": "Jos\u00e9 Omar Valbuena",
+        "author": "Jose Omar Valbuena",
         "date": null,
         "url": "https://artsandculture.google.com/asset/estudio-para-los-banistas/lgGprP4m-HFiyg"
     },
@@ -3667,7 +3667,7 @@
         "humus": 0.0000839068,
         "caption": "an artwork of a man jumping over a bridge",
         "title": "Estudio para los banistas",
-        "author": "Jos\u00e9 Omar Valbuena",
+        "author": "Jose Omar Valbuena",
         "date": null,
         "url": "https://artsandculture.google.com/asset/estudio-para-los-banistas/fgE2D_SLboNDQA"
     },
@@ -3703,7 +3703,7 @@
         "humus": 0.0000839068,
         "caption": "an artwork of a man jumping over a bridge",
         "title": "Estudio para los banistas",
-        "author": "Jos\u00e9 Omar Valbuena",
+        "author": "Jose Omar Valbuena",
         "date": null,
         "url": "https://artsandculture.google.com/asset/estudio-para-los-banistas/fgE2D_SLboNDQA"
     },
@@ -3739,7 +3739,7 @@
         "humus": 0.0000839068,
         "caption": "an artwork of a man jumping over a bridge",
         "title": "Estudio para los banistas",
-        "author": "Jos\u00e9 Omar Valbuena",
+        "author": "Jose Omar Valbuena",
         "date": null,
         "url": "https://artsandculture.google.com/asset/estudio-para-los-banistas/fgE2D_SLboNDQA"
     },
@@ -3747,7 +3747,7 @@
         "id": 108,
         "lat": 6.288203934,
         "lon": -76.9407044277,
-        "filename": "Estudio para los ba\u00f1istas - Jose Omar Valbuena.jpg",
+        "filename": "Estudio para los banistas - Jose Omar Valbuena.jpg",
         "tropical dry forest": 0.0000054945,
         "tropical woodland": 0.0002484261,
         "evergreen mixed forest": 0.000002503,
@@ -3774,8 +3774,8 @@
         "sand": 0.004275541,
         "humus": 0.0000389698,
         "caption": "an artwork of a person jumping off a platform",
-        "title": "Estudio para los ba\u00f1istas",
-        "author": "Jos\u00e9 Omar Valbuena",
+        "title": "Estudio para los banistas",
+        "author": "Jose Omar Valbuena",
         "date": null,
         "url": "https://artsandculture.google.com/asset/estudio-para-los-ba%C3%B1istas/LQFI3geMbs26mA"
     },
@@ -3811,7 +3811,7 @@
         "humus": 0.0034366034,
         "caption": "an artwork of a piece of food on a table",
         "title": "Explosion solar",
-        "author": "\u00c1lvaro Diego G\u00f3mez",
+        "author": "Alvaro Diego Gomez",
         "date": null,
         "url": "https://artsandculture.google.com/asset/explosion-solar/eQFW_WiXHBAwqQ"
     },
@@ -4027,7 +4027,7 @@
         "humus": 0.0006746706,
         "caption": "an artwork of a painting on a wall",
         "title": "Fuera de foco",
-        "author": "sigfredo chac\u00f3n",
+        "author": "sigfredo chacon",
         "date": null,
         "url": "https://artsandculture.google.com/asset/fuera-de-foco/2QH0159s2YSsXg"
     },
@@ -4063,7 +4063,7 @@
         "humus": 0.0006746706,
         "caption": "an artwork of a painting on a wall",
         "title": "Fuera de foco",
-        "author": "sigfredo chac\u00f3n",
+        "author": "sigfredo chacon",
         "date": null,
         "url": "https://artsandculture.google.com/asset/fuera-de-foco/1QH-EtSQn15v0g"
     },
@@ -4098,10 +4098,10 @@
         "sand": 0.0451152463,
         "humus": 0.0018609304,
         "caption": "an artwork of a painting on a wall",
-        "title": null,
-        "author": null,
+        "title": "Fuera de foco",
+        "author": "Sigfredo Chacon",
         "date": null,
-        "url": null
+        "url": "https://artsandculture.google.com/asset/fuera-de-foco/2QH0159s2YSsXg"
     },
     {
         "id": 117,
@@ -4179,7 +4179,7 @@
         "id": 119,
         "lat": 10.869611599,
         "lon": -73.7516859639,
-        "filename": "Fuerzas r\u00edtmicas - Lydia Azout.jpg",
+        "filename": "Fuerzas ritmicas - Lydia Azout.jpg",
         "tropical dry forest": 0.0000088557,
         "tropical woodland": 0.0000086026,
         "evergreen mixed forest": 0.0003458166,
@@ -4206,16 +4206,16 @@
         "sand": 0.0135721594,
         "humus": 0.0000953943,
         "caption": "an artwork of black and white rocks",
-        "title": null,
-        "author": null,
-        "date": null,
-        "url": null
+        "title": "Fuerzas ritmicas",
+        "author": "Lydia Azout",
+        "date": "1988",
+        "url": "https://artsandculture.google.com/asset/fuerzas-ritmicas-lydia-azout/PgF3hUDfPgA9Kg?hl=es-419"
     },
     {
         "id": 120,
         "lat": 2.5152799746,
         "lon": -70.427920241,
-        "filename": "Fuerzas r\u00edtmicas No.jpg",
+        "filename": "Fuerzas ritmicas No.jpg",
         "tropical dry forest": 0.0000840637,
         "tropical woodland": 0.0000017522,
         "evergreen mixed forest": 0.000003116,
@@ -4242,7 +4242,7 @@
         "sand": 0.0504021035,
         "humus": 0.0189333234,
         "caption": "an artwork of a piece of art on a black surface",
-        "title": "Fuerzas r\u00edtmicas No.17",
+        "title": "Fuerzas ritmicas No.17",
         "author": "Lydia Azout",
         "date": "1988",
         "url": "https://artsandculture.google.com/asset/fuerzas-r%C3%ADtmicas-no-17/PgF3hUDfPgA9Kg"
@@ -4459,7 +4459,7 @@
         "humus": 0.0029155808,
         "caption": "an artwork of a woman holding a knife",
         "title": "Heredero de la huella musical",
-        "author": "Horacio G\u00f3mez Orduz",
+        "author": "Horacio Gomez Orduz",
         "date": null,
         "url": "https://artsandculture.google.com/asset/heredero-de-la-huella-musical/EwHGx2bt-ohtNA"
     },
@@ -4531,7 +4531,7 @@
         "humus": 0.001784074,
         "caption": "an artwork of a cityscape with many buildings",
         "title": "Hotel Granada",
-        "author": "Mar\u00eda Ximena de Valdenebro.",
+        "author": "Maria Ximena de Valdenebro.",
         "date": null,
         "url": "https://artsandculture.google.com/asset/hotel-granada/GwH9Y-zu8Rq_AQ"
     },
@@ -4711,7 +4711,7 @@
         "humus": 0.0012752514,
         "caption": "an artwork of a painting of a room",
         "title": "Interior",
-        "author": "Juan C\u00e1rdenas",
+        "author": "Juan Cardenas",
         "date": null,
         "url": "https://artsandculture.google.com/asset/interior/DgFFqt4cxByc1Q"
     },
@@ -4747,7 +4747,7 @@
         "humus": 0.0004651797,
         "caption": "an artwork of a road with a yellow light",
         "title": "Ir al sol",
-        "author": "Nemesio At\u00fanez",
+        "author": "Nemesio Atunez",
         "date": null,
         "url": "https://artsandculture.google.com/asset/ir-al-sol/TgFCsFjVQindLw"
     },
@@ -4819,7 +4819,7 @@
         "humus": 0.1537559763,
         "caption": "an artwork of a young boy in a black suit",
         "title": "Joaquin Gonzalez Gutierrez",
-        "author": "Fidolo Gonz\u00e1lez",
+        "author": "Fidolo Gonzalez",
         "date": null,
         "url": "https://artsandculture.google.com/asset/joaquin-gonzalez-gutierrez/UAHCoc0Pi22XMg"
     },
@@ -4891,7 +4891,7 @@
         "humus": 0.000246417,
         "caption": "an artwork of an older man sitting in a chair",
         "title": "Juan Antonio Roda",
-        "author": "Hern\u00e1n D\u00edaz",
+        "author": "Hernan Diaz",
         "date": "2001",
         "url": "https://artsandculture.google.com/asset/juan-antonio-roda-hern%C3%A1n-d%C3%ADaz/HwHeJ1a1CUsPvw"
     },
@@ -4998,7 +4998,7 @@
         "sand": 0.034609141,
         "humus": 0.0276166737,
         "caption": "an artwork of a crowd of people",
-        "title": "La concentraci\u00f3n",
+        "title": "La concentracion",
         "author": "Elsa Zambrano",
         "date": "1976",
         "url": "https://artsandculture.google.com/asset/la-concentraci%C3%B3n/HQF9gtSM5nqrlQ"
@@ -5035,7 +5035,7 @@
         "humus": 0.0014766746,
         "caption": "an artwork of a woman in a pink dress",
         "title": "La Encajera en el Mar",
-        "author": "Beatriz Gonz\u00e1lez",
+        "author": "Beatriz Gonzalez",
         "date": null,
         "url": "https://artsandculture.google.com/asset/la-encajera-en-el-mar/AgGumNqVneQU-A"
     },
@@ -5071,7 +5071,7 @@
         "humus": 0.0150984643,
         "caption": "an artwork of a piece of paper with the words la la nue",
         "title": "La letra con sangre entra",
-        "author": "Eduardo Hern\u00e1ndez",
+        "author": "Eduardo Hernandez",
         "date": "1979",
         "url": "https://artsandculture.google.com/asset/la-letra-con-sangre-entra-eduardo-hern%C3%A1ndez/hAFjDVI4L05pRg"
     },
@@ -5259,7 +5259,7 @@
         "id": 150,
         "lat": 11.9475898731,
         "lon": -72.1347188554,
-        "filename": "Laberinto de las sombras - Margarita Guti\u00e9rrez.jpg",
+        "filename": "Laberinto de las sombras - Margarita Gutierrez.jpg",
         "tropical dry forest": 0.0000016843,
         "tropical woodland": 0.0000086715,
         "evergreen mixed forest": 0.0000440575,
@@ -5287,7 +5287,7 @@
         "humus": 0.0004570947,
         "caption": "an artwork of a person in a hat",
         "title": "Laberinto de las sombras",
-        "author": "Margarita Guti\u00e9rrez",
+        "author": "Margarita Gutierrez",
         "date": "1976",
         "url": "https://artsandculture.google.com/asset/laberinto-de-las-sombras/egEZXkGH_qSObQ"
     },
@@ -5323,7 +5323,7 @@
         "humus": 0.0006836066,
         "caption": "an artwork of two people in a field",
         "title": "Las Segadoras",
-        "author": "Andr\u00e9s de Santa Mar\u00eda",
+        "author": "Andres de Santa Maria",
         "date": null,
         "url": "https://artsandculture.google.com/asset/las-segadoras/kQHj3L65KX7HYg"
     },
@@ -5467,7 +5467,7 @@
         "humus": 0.0088902101,
         "caption": "an artwork of two people sitting on a couch",
         "title": "Los Mendigos",
-        "author": "Jorge El\u00edas Triana",
+        "author": "Jorge Elias Triana",
         "date": null,
         "url": "https://artsandculture.google.com/asset/los-mendigos/JgE3FGh5jKHNoA"
     },
@@ -5611,7 +5611,7 @@
         "humus": 0.0002112989,
         "caption": "an artwork of a blue and green wave pattern",
         "title": "Mar",
-        "author": "Ana Mar\u00eda Rueda",
+        "author": "Ana Maria Rueda",
         "date": null,
         "url": "https://artsandculture.google.com/asset/mar/UQGRJPYrmVNtcg"
     },
@@ -5754,7 +5754,7 @@
         "sand": 0.001319608,
         "humus": 0.0024634755,
         "caption": "an artwork of a woman in a green dress",
-        "title": "Modelo en Par\u00eds",
+        "title": "Modelo en Paris",
         "author": "Ricardo Acevedo Bernal",
         "date": "1889",
         "url": "https://artsandculture.google.com/asset/modelo-en-par%C3%ADs/KQGJ1eT0eRirnA"
@@ -5827,7 +5827,7 @@
         "humus": 0.0010987504,
         "caption": "an artwork of a woman in a red dress and yellow jacket",
         "title": "Mujer",
-        "author": "Mar\u00eda de la paz Jaramillo",
+        "author": "Maria de la paz Jaramillo",
         "date": "1983",
         "url": "https://artsandculture.google.com/asset/mujer/2gEOw-oveCXwpw"
     },
@@ -5863,7 +5863,7 @@
         "humus": 0.049219759,
         "caption": "an artwork of a woman in a green dress and a man in a pink shirt",
         "title": "Mujer CaribeEl Beso",
-        "author": "Mar\u00eda Paz Jaramillo",
+        "author": "Maria Paz Jaramillo",
         "date": null,
         "url": "https://artsandculture.google.com/asset/mujer-caribeel-beso/BwF21Tzes4S_7g"
     },
@@ -5935,7 +5935,7 @@
         "humus": 0.0036737836,
         "caption": "an artwork of a man in a white robe",
         "title": "Mujer Lunada",
-        "author": "Eduardo Ram\u00edrez Villamizar",
+        "author": "Eduardo Ramirez Villamizar",
         "date": "1952",
         "url": "https://artsandculture.google.com/asset/mujer-lunada/VgFU1l1Mhb32UQ"
     },
@@ -6043,7 +6043,7 @@
         "humus": 0.011457615,
         "caption": "an artwork of a painting with a lot of paint",
         "title": "Muro Colonial",
-        "author": "Humberto Jaimes S\u00e1nchez",
+        "author": "Humberto Jaimes Sanchez",
         "date": null,
         "url": "https://artsandculture.google.com/asset/muro-colonial/swGnvqIsGkk2lA"
     },
@@ -6051,7 +6051,7 @@
         "id": 172,
         "lat": 5.6593832741,
         "lon": -77.0754516867,
-        "filename": "Naturaleza casi muerta - Beatriz Gonz\u00e1lez.jpg",
+        "filename": "Naturaleza casi muerta - Beatriz Gonzalez.jpg",
         "tropical dry forest": 0.0000019382,
         "tropical woodland": 0.0015344914,
         "evergreen mixed forest": 0.0000092779,
@@ -6078,10 +6078,10 @@
         "sand": 0.0046747068,
         "humus": 0.0000031041,
         "caption": "an artwork of a bird on a table",
-        "title": null,
-        "author": null,
-        "date": null,
-        "url": null
+        "title": "Naturaleza casi muerta",
+        "author": "Beatriz Gonzalez",
+        "date": "1970",
+        "url": "https://artsandculture.google.com/asset/naturaleza-casi-muerta-beatriz-gonz%C3%A1lez/9wGyEVC8AiomWw?hl=es"
     },
     {
         "id": 173,
@@ -6115,7 +6115,7 @@
         "humus": 0.0030189471,
         "caption": "an artwork of a woman with a flower",
         "title": "Naturaleza muerta",
-        "author": "Beatriz Daza Gonz\u00e1lez",
+        "author": "Beatriz Daza Gonzalez",
         "date": "1968",
         "url": "https://artsandculture.google.com/asset/naturaleza-muerta/SgFCjwUZcn--TQ"
     },
@@ -6258,8 +6258,8 @@
         "sand": 0.0144624104,
         "humus": 0.0278115626,
         "caption": "an artwork of two people sitting on a couch",
-        "title": "Ni\u00f1a turca",
-        "author": "Beatriz Gonz\u00e1lez",
+        "title": "Nina turca",
+        "author": "Beatriz Gonzalez",
         "date": "1965",
         "url": "https://artsandculture.google.com/asset/ni%C3%B1a-turca/qQEXxCp7gQpIHA"
     },
@@ -6367,7 +6367,7 @@
         "humus": 0.000806471,
         "caption": "an artwork of a brown, yellow and green painting",
         "title": "Oleo #2",
-        "author": "Fanny San\u00edn",
+        "author": "Fanny Sanin",
         "date": null,
         "url": "https://artsandculture.google.com/asset/oleo-2/EAGcg11o98Q0ug"
     },
@@ -6403,7 +6403,7 @@
         "humus": 0.0331259549,
         "caption": "an artwork of a woman with a green shirt",
         "title": "Oleo No.6",
-        "author": "Fany San\u00edn",
+        "author": "Fany Sanin",
         "date": null,
         "url": "https://artsandculture.google.com/asset/oleo-no-6/mAGkKU5RyzKAPw"
     },
@@ -6411,7 +6411,7 @@
         "id": 182,
         "lat": 5.4797202284,
         "lon": -73.0330339157,
-        "filename": "Operaci\u00f3n.jpg",
+        "filename": "Operacion.jpg",
         "tropical dry forest": 0.0000084851,
         "tropical woodland": 0.0000115958,
         "evergreen mixed forest": 0.0001589054,
@@ -6438,7 +6438,7 @@
         "sand": 0.0009063937,
         "humus": 0.0000170147,
         "caption": "an artwork of a piece of paper with writing on it",
-        "title": "Operaci\u00f3n. Bernando Salcedo",
+        "title": "Operacion. Bernando Salcedo",
         "author": null,
         "date": null,
         "url": "https://artsandculture.google.com/asset/operaci%C3%B3n-bernando-salcedo/zQHEkGhJnILMrA"
@@ -6447,7 +6447,7 @@
         "id": 183,
         "lat": 6.2432881726,
         "lon": -77.4796934639,
-        "filename": "Paisaje (2) - Roberto P\u00e1ramo Tirado.jpg",
+        "filename": "Paisaje (2) - Roberto Paramo Tirado.jpg",
         "tropical dry forest": 0.0004233983,
         "tropical woodland": 0.0472766446,
         "evergreen mixed forest": 0.3581912733,
@@ -6474,10 +6474,10 @@
         "sand": 0.0003733442,
         "humus": 0.00035189,
         "caption": "an artwork of a tree in a park",
-        "title": null,
-        "author": null,
-        "date": null,
-        "url": null
+        "title": "Paisaje (2)",
+        "author": "Roberto Paramo Tirado",
+        "date": "1859",
+        "url": "https://artsandculture.google.com/asset/paisaje-2-roberto-p%C3%A1ramo-tirado/DwH7TqQVqgQKRQ?hl=es"
     },
     {
         "id": 184,
@@ -6655,7 +6655,7 @@
         "humus": 0.0001480412,
         "caption": "an artwork of mountains and trees",
         "title": "Paisaje",
-        "author": "Ignacio G\u00f3mez Jaramillo",
+        "author": "Ignacio Gomez Jaramillo",
         "date": null,
         "url": "https://artsandculture.google.com/asset/paisaje/sAGeVoyq9PE1NA"
     },
@@ -6691,7 +6691,7 @@
         "humus": 0.0002714577,
         "caption": "an artwork of a barn by a river",
         "title": "Paisaje",
-        "author": "Jes\u00fas Mar\u00eda Zamora",
+        "author": "Jesus Maria Zamora",
         "date": null,
         "url": "https://artsandculture.google.com/asset/paisaje/XAEnTw2OjFtQVg"
     },
@@ -6727,7 +6727,7 @@
         "humus": 0.004995243,
         "caption": "an artwork of a yellow building on a hill",
         "title": "Paisaje",
-        "author": "jorge madri\u00f1\u00e1n",
+        "author": "jorge madrinan",
         "date": null,
         "url": "https://artsandculture.google.com/asset/paisaje/xAG8fMMAbiVaPg"
     },
@@ -6735,7 +6735,7 @@
         "id": 191,
         "lat": 10.7348643147,
         "lon": -73.5720229518,
-        "filename": "Paisaje - Roberto P\u00e1ramo Tirado.jpg",
+        "filename": "Paisaje - Roberto Paramo Tirado.jpg",
         "tropical dry forest": 0.0000008803,
         "tropical woodland": 0.0000026102,
         "evergreen mixed forest": 0.0001020757,
@@ -6763,7 +6763,7 @@
         "humus": 0.0001181428,
         "caption": "an artwork of a building on a hill",
         "title": "Paisaje",
-        "author": "Roberto P\u00e1ramo Tirado",
+        "author": "Roberto Paramo Tirado",
         "date": "1859",
         "url": "https://artsandculture.google.com/asset/paisaje/jwHNTaFYrLvlCA"
     },
@@ -6799,7 +6799,7 @@
         "humus": 0.000030033,
         "caption": "an artwork of a yellow object hanging on a wire",
         "title": "Paisaje",
-        "author": "Rodolfo Vel\u00e1squez",
+        "author": "Rodolfo Velasquez",
         "date": null,
         "url": "https://artsandculture.google.com/asset/paisaje/qgGc12PI_gDuLw"
     },
@@ -6843,7 +6843,7 @@
         "id": 194,
         "lat": 5.749214797,
         "lon": -73.1228654217,
-        "filename": "Paisaje 0515 - Roberto P\u00e1ramo, 1859.jpg",
+        "filename": "Paisaje 0515 - Roberto Paramo, 1859.jpg",
         "tropical dry forest": 0.0043430285,
         "tropical woodland": 0.0012574907,
         "evergreen mixed forest": 0.0010844804,
@@ -6870,16 +6870,16 @@
         "sand": 0.0145651912,
         "humus": 0.0048351227,
         "caption": "an artwork of a house in the countryside",
-        "title": null,
-        "author": null,
-        "date": null,
-        "url": null
+        "title": "Paisaje 0515",
+        "author": "Roberto Paramo Tirado",
+        "date": "1859",
+        "url": "https://artsandculture.google.com/asset/paisaje-0515-roberto-p%C3%A1ramo-1859/kgGyjVNW3xmSxQ?hl=es"
     },
     {
         "id": 195,
         "lat": 1.2576386548,
         "lon": -77.3449462048,
-        "filename": "Paisaje 1329 - Roberto P\u00e1ramo, 1859.jpg",
+        "filename": "Paisaje 1329 - Roberto Paramo, 1859.jpg",
         "tropical dry forest": 0.0005607242,
         "tropical woodland": 0.0001665981,
         "evergreen mixed forest": 0.0025715757,
@@ -6906,16 +6906,16 @@
         "sand": 0.0002320655,
         "humus": 0.0000722044,
         "caption": "an artwork of a landscape with trees and a field",
-        "title": null,
-        "author": null,
-        "date": null,
-        "url": null
+        "title": "Paisaje 1329",
+        "author": "Roberto Paramo Tirado",
+        "date": "1859",
+        "url": "https://artsandculture.google.com/asset/paisaje-1329-roberto-p%C3%A1ramo-1859/FQHxNMuzqGmwbQ?hl=es"
     },
     {
         "id": 196,
         "lat": 4.6263207614,
         "lon": -73.8415174699,
-        "filename": "Paisaje 1331 - Roberto P\u00e1ramo, 1859.jpg",
+        "filename": "Paisaje 1331 - Roberto Paramo, 1859.jpg",
         "tropical dry forest": 0.0314051426,
         "tropical woodland": 0.0242032337,
         "evergreen mixed forest": 0.1050452905,
@@ -6942,16 +6942,16 @@
         "sand": 0.0001065772,
         "humus": 0.0000196286,
         "caption": "an artwork of a road with trees and a sky",
-        "title": null,
-        "author": null,
-        "date": null,
-        "url": null
+        "title": "Paisaje 1331",
+        "author": "Roberto Paramo Tirado",
+        "date": "1859",
+        "url": "https://artsandculture.google.com/asset/paisaje-1331-roberto-p%C3%A1ramo-1859/ogHjGNQur-e9vQ"
     },
     {
         "id": 197,
         "lat": 6.3331196954,
         "lon": -72.9432024096,
-        "filename": "Paisaje 1332 - Roberto P\u00e1ramo, 1859.jpg",
+        "filename": "Paisaje 1332 - Roberto Paramo, 1859.jpg",
         "tropical dry forest": 0.0001539107,
         "tropical woodland": 0.0000875886,
         "evergreen mixed forest": 0.0012993198,
@@ -6978,16 +6978,16 @@
         "sand": 0.0015701729,
         "humus": 0.0002563694,
         "caption": "an artwork of a house in a field",
-        "title": null,
-        "author": null,
+        "title": "Paisaje 1332",
+        "author": "Roberto Paramo Tirado",
         "date": null,
-        "url": null
+        "url": "https://artsandculture.google.com/asset/paisaje-1332-roberto-p%C3%A1ramo-1859/oQFJcrLNHsUnhA?hl=es"
     },
     {
         "id": 198,
         "lat": 8.9382338579,
         "lon": -75.2339058133,
-        "filename": "Paisaje Desplazable No5 - Mar\u00eda Helena Bernal, 1947.jpg",
+        "filename": "Paisaje Desplazable No5 - Maria Helena Bernal, 1947.jpg",
         "tropical dry forest": 0.0000514092,
         "tropical woodland": 0.0000971305,
         "evergreen mixed forest": 0.003343996,
@@ -7014,16 +7014,16 @@
         "sand": 0.0007074961,
         "humus": 0.0000470682,
         "caption": "an artwork of four paintings of different colors",
-        "title": null,
-        "author": null,
-        "date": null,
-        "url": null
+        "title": "Paisaje Desplazable No5",
+        "author": "Maria Helena Bernal",
+        "date": "1984",
+        "url": "https://artsandculture.google.com/asset/paisaje-desplazable-no5/NgHHvjSsBdt0rg?hl=es"
     },
     {
         "id": 199,
         "lat": 10.7348643147,
         "lon": -73.4821914458,
-        "filename": "Paisaje Gerardo Arag\u00f3n - Gerardo Arag\u00f3n, 1935.jpg",
+        "filename": "Paisaje Gerardo Aragon - Gerardo Aragon, 1935.jpg",
         "tropical dry forest": 0.0000105237,
         "tropical woodland": 0.0000094971,
         "evergreen mixed forest": 0.00002761,
@@ -7050,8 +7050,8 @@
         "sand": 0.0002707251,
         "humus": 0.0000028531,
         "caption": "an artwork of a cloudy sky with clouds",
-        "title": "Paisaje Gerardo Arag\u00f3n",
-        "author": "Gerardo Arag\u00f3n, 1935",
+        "title": "Paisaje Gerardo Aragon",
+        "author": "Gerardo Aragon, 1935",
         "date": "1982",
         "url": "https://artsandculture.google.com/asset/paisaje-gerardo-arag%C3%B3n/ewGSXIKsvUamTQ"
     },
@@ -7087,7 +7087,7 @@
         "humus": 0.0000087714,
         "caption": "an artwork of a forest scene with a mountain in the background",
         "title": "Paisaje Oleo Sobre Carton",
-        "author": "Jes\u00fas Mar\u00eda Zamora",
+        "author": "Jesus Maria Zamora",
         "date": null,
         "url": "https://artsandculture.google.com/asset/paisaje-oleo-sobre-carton/zwEvaKTd8MMrUA"
     },
@@ -7123,7 +7123,7 @@
         "humus": 0.0000610103,
         "caption": "an artwork of a tree in a field",
         "title": "Paisaje Oleo sobre Madera",
-        "author": "Jes\u00fas Mar\u00eda Zamora.",
+        "author": "Jesus Maria Zamora.",
         "date": null,
         "url": "https://artsandculture.google.com/asset/paisaje-oleo-sobre-madera/eQECJqvM-0qyjg"
     },
@@ -7131,7 +7131,7 @@
         "id": 202,
         "lat": 4.7610680457,
         "lon": -75.4135688253,
-        "filename": "paisaje sabanero - Roberto P\u00e1ramo.jpg",
+        "filename": "paisaje sabanero - Roberto Paramo.jpg",
         "tropical dry forest": 0.0002153706,
         "tropical woodland": 0.000004513,
         "evergreen mixed forest": 0.0001764574,
@@ -7158,10 +7158,10 @@
         "sand": 0.0031173474,
         "humus": 0.0000450194,
         "caption": "an artwork of a dirt road with houses in the background",
-        "title": null,
-        "author": null,
-        "date": null,
-        "url": null
+        "title": "Paisaje Sabanero",
+        "author": "Roberto Paramo Tirado",
+        "date": "1980",
+        "url": "https://artsandculture.google.com/asset/paisaje-sabanero-roberto-p%C3%A1ramo/QQGiCZlnRME7-g?hl=es-419"
     },
     {
         "id": 203,
@@ -7203,7 +7203,7 @@
         "id": 204,
         "lat": 4.7610680457,
         "lon": -75.4584845783,
-        "filename": "Paisaje, 1900-10 - Roberto P\u00e1ramo, 1859.jpg",
+        "filename": "Paisaje, 1900-10 - Roberto Paramo, 1859.jpg",
         "tropical dry forest": 0.0011900726,
         "tropical woodland": 0.0382269049,
         "evergreen mixed forest": 0.1807720486,
@@ -7230,10 +7230,10 @@
         "sand": 0.0010893683,
         "humus": 0.0000593312,
         "caption": "an artwork of a house with trees and bushes",
-        "title": null,
-        "author": null,
+        "title": "Paisaje, 1900-10",
+        "author": "Roberto Paramo Tirado",
         "date": null,
-        "url": null
+        "url": "https://artsandculture.google.com/asset/paisaje-1900-10-roberto-p%C3%A1ramo-1859/vAE3AaUbYijZxQ?hl=es"
     },
     {
         "id": 205,
@@ -7303,7 +7303,7 @@
         "humus": 0.0000270271,
         "caption": "an artwork of a landscape with a mountain in the background",
         "title": "Paisaje. Oleo sobre Madera",
-        "author": "Jes\u00fas Mar\u00eda Zamora.",
+        "author": "Jesus Maria Zamora.",
         "date": null,
         "url": "https://artsandculture.google.com/asset/paisaje-oleo-sobre-madera/eQGiKOrhyQlcvg"
     },
@@ -7339,7 +7339,7 @@
         "humus": 0.0070939806,
         "caption": "an artwork of a black and white painting",
         "title": "Palmera",
-        "author": "Ernesto Le\u00f3n",
+        "author": "Ernesto Leon",
         "date": null,
         "url": "https://artsandculture.google.com/asset/palmera/GAGsBDw3ivv0zQ"
     },
@@ -7375,7 +7375,7 @@
         "humus": 0.0298232833,
         "caption": "an artwork of two people standing in front of a wall",
         "title": "Palmera y el mar",
-        "author": "Ernesto Le\u00f3n",
+        "author": "Ernesto Leon",
         "date": null,
         "url": "https://artsandculture.google.com/asset/palmera-y-el-mar/3wFX51mYaUacOQ"
     },
@@ -7410,8 +7410,8 @@
         "sand": 0.0001573364,
         "humus": 0.0000004625,
         "caption": "an artwork of a tree in the water",
-        "title": "El r\u00edo",
-        "author": "Andr\u00e9s de Santa Mar\u00eda",
+        "title": "El rio",
+        "author": "Andres de Santa Maria",
         "date": "1904",
         "url": "https://artsandculture.google.com/asset/el-r%C3%ADo/MQEwcdRjI4znFQ"
     },
@@ -7447,7 +7447,7 @@
         "humus": 0.0005365964,
         "caption": "an artwork of a knife and a knife in a black box",
         "title": "Peces y Cerezas",
-        "author": "Eduardo Ram\u00edrez Villamizar",
+        "author": "Eduardo Ramirez Villamizar",
         "date": null,
         "url": "https://artsandculture.google.com/asset/peces-y-cerezas/7gFJulNKJBiRww"
     },
@@ -7555,7 +7555,7 @@
         "humus": 0.00025907,
         "caption": "an artwork of a painting on a wall",
         "title": "Presencia de idolitos",
-        "author": "Jorge P\u00e1ez Billaro",
+        "author": "Jorge Paez Billaro",
         "date": null,
         "url": "https://artsandculture.google.com/asset/presencia-de-idolitos/7QHQ91KsVVgt4A"
     },
@@ -7699,7 +7699,7 @@
         "humus": 0.0042882099,
         "caption": "an artwork of a painting with orange and yellow colors",
         "title": "Radiografia de lo Invisible",
-        "author": "Nirma Z\u00e1rate",
+        "author": "Nirma Zarate",
         "date": null,
         "url": "https://artsandculture.google.com/asset/radiografia-de-lo-invisible/owElPIhRuuwMDQ"
     },
@@ -7735,7 +7735,7 @@
         "humus": 0.0011739146,
         "caption": "an artwork of a painting with many different colors",
         "title": "Rectangles",
-        "author": "Germ\u00e1n Rodr\u00edguez",
+        "author": "German Rodriguez",
         "date": null,
         "url": "https://artsandculture.google.com/asset/rectangles/ewH8UhciCt7MJg"
     },
@@ -7779,7 +7779,7 @@
         "id": 223,
         "lat": 7.2314349239,
         "lon": -74.425422259,
-        "filename": "Retrato de Beatriz G\u00f3nzalez - Hernan D\u00edaz, 1931.jpg",
+        "filename": "Retrato de Beatriz Gonzalez - Hernan Diaz, 1931.jpg",
         "tropical dry forest": 0.0000006668,
         "tropical woodland": 0.000018033,
         "evergreen mixed forest": 0.0000080301,
@@ -7806,8 +7806,8 @@
         "sand": 0.0063161382,
         "humus": 0.0107529044,
         "caption": "an artwork of two women in black and white",
-        "title": "Retrato de Beatriz G\u00f3nzalez",
-        "author": "Hernan D\u00edaz",
+        "title": "Retrato de Beatriz Gonzalez",
+        "author": "Hernan Diaz",
         "date": null,
         "url": "https://artsandculture.google.com/asset/retrato-de-beatriz-g%C3%B3nzalez/SwGqjlJX6vLrsw"
     },
@@ -8139,7 +8139,7 @@
         "id": 236,
         "lat": 5.6144675127,
         "lon": -76.4017153916,
-        "filename": "Serie Esquinas gordas - Rosario L\u00f3pez_0001.jpg",
+        "filename": "Serie Esquinas gordas - Rosario Lopez_0001.jpg",
         "tropical dry forest": 0.0000414195,
         "tropical woodland": 0.0003668145,
         "evergreen mixed forest": 0.0006318964,
@@ -8167,7 +8167,7 @@
         "humus": 0.1538084636,
         "caption": "an artwork of a large green ball on a sidewalk",
         "title": "Serie Esquinas gordas",
-        "author": "Rosario L\u00f3pez",
+        "author": "Rosario Lopez",
         "date": "1998",
         "url": "https://artsandculture.google.com/asset/serie-esquinas-gordas/WQFlykDe93ZWaQ"
     },
@@ -8175,7 +8175,7 @@
         "id": 238,
         "lat": 5.3898887056,
         "lon": -75.3237373193,
-        "filename": "Serie Esquinas gordas - Rosario L\u00f3pez_0003.jpg",
+        "filename": "Serie Esquinas gordas - Rosario Lopez_0003.jpg",
         "tropical dry forest": 0.0000388554,
         "tropical woodland": 0.0000653114,
         "evergreen mixed forest": 0.0004658422,
@@ -8202,46 +8202,10 @@
         "sand": 0.0547082448,
         "humus": 0.0120742893,
         "caption": "an artwork of a pile of dirt on a sidewalk",
-        "title": null,
-        "author": null,
-        "date": null,
-        "url": null
-    },
-    {
-        "id": 239,
-        "lat": 4.4017419543,
-        "lon": -73.5720229518,
-        "filename": "Serie Esquinas gordas - Rosario L\u00f3pez_0004.jpg",
-        "tropical dry forest": 0.0000460795,
-        "tropical woodland": 0.0000438899,
-        "evergreen mixed forest": 0.0000291495,
-        "tropical savanna": 0.000019737,
-        "steppe": 0.0007539629,
-        "farmland": 0.0002367465,
-        "snow": 0.0085660146,
-        "urban": 0.3396639051,
-        "river": 0.0229638014,
-        "ocean": 0.0283911232,
-        "sky": 0.2451401487,
-        "sun": 0.1337279176,
-        "wet": 0.0771186147,
-        "dry": 0.1138042987,
-        "mountain": 0.0527047312,
-        "valley": 0.0023163514,
-        "artificial": 0.0962368176,
-        "natural": 0.2456506618,
-        "hot": 0.055421873,
-        "cold": 0.1241590519,
-        "human": 0.0321225367,
-        "nonhuman": 0.0460772782,
-        "clay": 0.1002207182,
-        "sand": 0.1017491346,
-        "humus": 0.0045252875,
-        "caption": "an artwork of a man on a skateboard",
-        "title": null,
-        "author": null,
-        "date": null,
-        "url": null
+        "title": "Serie Esquinas Gordas",
+        "author": "Rosario Lopez",
+        "date": "1998",
+        "url": "https://artsandculture.google.com/asset/serie-esquinas-gordas/yAFVmGQXHAPG_w?hl=es-419"
     },
     {
         "id": 240,
@@ -8311,7 +8275,7 @@
         "humus": 0.010871076,
         "caption": "an artwork of a man with a blue umbrella",
         "title": "Serie Los Templos",
-        "author": "Yairo Mej\u00eda",
+        "author": "Yairo Mejia",
         "date": null,
         "url": "https://artsandculture.google.com/asset/serie-los-templos/AAEzLwsRIeOerg"
     },
@@ -8427,7 +8391,7 @@
         "id": 246,
         "lat": 10.4204539848,
         "lon": -75.3237373193,
-        "filename": "Silvia Moyano de Pe\u00f1a.Sin t\u00edtulo.jpg",
+        "filename": "Silvia Moyano de Pena.Sin titulo.jpg",
         "tropical dry forest": 0.0000000737,
         "tropical woodland": 0.0000044365,
         "evergreen mixed forest": 0.0000007877,
@@ -8454,8 +8418,8 @@
         "sand": 0.0019571499,
         "humus": 0.0002730065,
         "caption": "an artwork of a woman sitting at a window",
-        "title": "Sin t\u00edtulo.",
-        "author": "Silvia Moyano de pe\u00f1a",
+        "title": "Sin titulo.",
+        "author": "Silvia Moyano de pena",
         "date": "1976",
         "url": "https://artsandculture.google.com/asset/silvia-moyano-de-pe%C3%B1a-sin-t%C3%ADtulo/QwHslD_Ss0r7DQ"
     },
@@ -8491,7 +8455,7 @@
         "humus": 0.0073418027,
         "caption": "an artwork of a woman in the ocean",
         "title": "Sin titulo (1 de 5)",
-        "author": "Bibiana V\u00e9lez",
+        "author": "Bibiana Velez",
         "date": null,
         "url": "https://artsandculture.google.com/asset/sin-titulo-1-de-5/5QHzDBxHO9uKBw"
     },
@@ -8527,7 +8491,7 @@
         "humus": 0.0000234665,
         "caption": "an artwork of a painting of a boat in the ocean",
         "title": "Sin titulo (2 de 5)",
-        "author": "Bibiana V\u00e9lez",
+        "author": "Bibiana Velez",
         "date": null,
         "url": "https://artsandculture.google.com/asset/sin-titulo-2-de-5/7AEg-O63cW3a0A"
     },
@@ -8563,7 +8527,7 @@
         "humus": 0.0026080396,
         "caption": "an artwork of a woman floating in the water",
         "title": "Sin titulo (3 de 5)",
-        "author": "Bibiana V\u00e9lez",
+        "author": "Bibiana Velez",
         "date": null,
         "url": "https://artsandculture.google.com/asset/sin-titulo-3-de-5/4wHk0TtOZSxZ3g"
     },
@@ -8599,7 +8563,7 @@
         "humus": 0.0013200932,
         "caption": "an artwork of a woman walking in the water",
         "title": "Sin titulo (4 de 5)",
-        "author": "Bibiana V\u00e9lez",
+        "author": "Bibiana Velez",
         "date": null,
         "url": "https://artsandculture.google.com/asset/sin-titulo-4-de-5/ZAG9ka2dPke4sw"
     },
@@ -8635,7 +8599,7 @@
         "humus": 0.0003637078,
         "caption": "an artwork of a boat in the ocean with two fish swimming in it",
         "title": "Sin titulo (5 de 5)",
-        "author": "Bibiana V\u00e9lez",
+        "author": "Bibiana Velez",
         "date": null,
         "url": "https://artsandculture.google.com/asset/sin-titulo-5-de-5/MgEQ27yy3vpypg"
     },
@@ -8671,7 +8635,7 @@
         "humus": 0.0091875183,
         "caption": "an artwork of a black circle with a red border",
         "title": "Sin Titulo (Fuego sobre Madera)",
-        "author": "Adri\u00e1n Gait\u00e1n",
+        "author": "Adrian Gaitan",
         "date": null,
         "url": "https://artsandculture.google.com/asset/sin-titulo-fuego-sobre-madera/KwGiEzSD5EQ8Tg"
     },
@@ -8743,7 +8707,7 @@
         "humus": 0.0000080636,
         "caption": "an artwork of a woman with a flower in her hair",
         "title": "Sin Titulo",
-        "author": "Bibiana V\u00e9lez",
+        "author": "Bibiana Velez",
         "date": null,
         "url": "https://artsandculture.google.com/asset/sin-titulo/jAH2vVWykNrDNg"
     },
@@ -8851,7 +8815,7 @@
         "humus": 0.0064888587,
         "caption": "an artwork of a black and white painting",
         "title": "Sin titulo",
-        "author": "Francisco Fern\u00e1ndez",
+        "author": "Francisco Fernandez",
         "date": null,
         "url": "https://artsandculture.google.com/asset/sin-titulo/ugE0IzwylLDLLQ"
     },
@@ -9031,7 +8995,7 @@
         "humus": 0.0006092152,
         "caption": "an artwork of a city with a tall building",
         "title": "Sin Titulo",
-        "author": "Miguel \u00c1ngel Bengochea",
+        "author": "Miguel Angel Bengochea",
         "date": null,
         "url": "https://artsandculture.google.com/asset/sin-titulo/ywH3BK7JvBOz5A"
     },
@@ -9175,7 +9139,7 @@
         "humus": 0.003658726,
         "caption": "an artwork of two tall buildings on a wall",
         "title": "Sin titulo",
-        "author": "\u00d3scar Patoja",
+        "author": "Oscar Patoja",
         "date": null,
         "url": "https://artsandculture.google.com/asset/sin-titulo/ZQHvtIs0b32ybw"
     },
@@ -9427,7 +9391,7 @@
         "humus": 0.0000037569,
         "caption": "an artwork of a blue and brown painting",
         "title": "Sin Titulo.",
-        "author": "Jos\u00e9 Urbach",
+        "author": "Jose Urbach",
         "date": null,
         "url": "https://artsandculture.google.com/asset/sin-titulo/mAE8wW-bG2rmlA"
     },
@@ -9435,7 +9399,7 @@
         "id": 274,
         "lat": 2.560195736,
         "lon": -76.8508729217,
-        "filename": "Sin t\u00edtulo - Lydia Azout.jpg",
+        "filename": "Sin titulo - Lydia Azout.jpg",
         "tropical dry forest": 0.0004228611,
         "tropical woodland": 0.0000543278,
         "evergreen mixed forest": 0.0000487037,
@@ -9462,7 +9426,7 @@
         "sand": 0.0053077011,
         "humus": 0.0000943144,
         "caption": "an artwork of a piece of wood with rope",
-        "title": "Sin t\u00edtulo",
+        "title": "Sin titulo",
         "author": "Lydia Azout",
         "date": "1984",
         "url": "https://artsandculture.google.com/asset/sin-t%C3%ADtulo/NwGENQ1lQjg_GQ"
@@ -9471,7 +9435,7 @@
         "id": 275,
         "lat": 1.3923859391,
         "lon": -72.8084551506,
-        "filename": "Sin t\u00edtulo - Lydia Azout_0001.jpg",
+        "filename": "Sin titulo - Lydia Azout_0001.jpg",
         "tropical dry forest": 0.0000016645,
         "tropical woodland": 0.0000187536,
         "evergreen mixed forest": 0.0000049338,
@@ -9498,7 +9462,7 @@
         "sand": 0.0001785129,
         "humus": 0.0000113888,
         "caption": "an artwork of a brown object on a white surface",
-        "title": "Sin t\u00edtulo",
+        "title": "Sin titulo",
         "author": "Lydia Azout",
         "date": null,
         "url": "https://artsandculture.google.com/asset/sin-t%C3%ADtulo/jQHOwa_xbq_Y2g"
@@ -9507,7 +9471,7 @@
         "id": 276,
         "lat": 1.3923859391,
         "lon": -76.9407044277,
-        "filename": "Sin t\u00edtulo - Santiago Harker.jpg",
+        "filename": "Sin titulo - Santiago Harker.jpg",
         "tropical dry forest": 0.0000030019,
         "tropical woodland": 0.0000030047,
         "evergreen mixed forest": 0.0000443976,
@@ -9534,10 +9498,10 @@
         "sand": 0.0442135027,
         "humus": 0.0109344719,
         "caption": "an artwork of a house with a clock on the roof",
-        "title": null,
-        "author": null,
-        "date": null,
-        "url": null
+        "title": "Sin título",
+        "author": "Santiago Harker",
+        "date": "1984",
+        "url": "https://artsandculture.google.com/asset/sin-t%C3%ADtulo-santiago-harker/WgHFHh60L3vSEw?hl=es"
     },
     {
         "id": 277,
@@ -9615,7 +9579,7 @@
         "id": 279,
         "lat": 4.5364892386,
         "lon": -74.245759247,
-        "filename": "Tr\u00edpticos - Luis Fernando Roldan.jpg",
+        "filename": "Tripticos - Luis Fernando Roldan.jpg",
         "tropical dry forest": 0.0003110356,
         "tropical woodland": 0.0029739519,
         "evergreen mixed forest": 0.0090961123,
@@ -9642,8 +9606,8 @@
         "sand": 0.0002984022,
         "humus": 0.0000137328,
         "caption": "an artwork of multiple colors and black and white",
-        "title": "Tr\u00edpticos",
-        "author": "Luis Fernando Rold\u00e1n",
+        "title": "Tripticos",
+        "author": "Luis Fernando Roldan",
         "date": null,
         "url": "https://artsandculture.google.com/asset/tr%C3%ADpticos/rwEYsVmHpIOoNw"
     },
@@ -9823,7 +9787,7 @@
         "humus": 0.0129083721,
         "caption": "an artwork of a man and woman sitting on a beach",
         "title": "Una sirena hechizando un marinero",
-        "author": "\u00d3scar Danilo Vargas",
+        "author": "Oscar Danilo Vargas",
         "date": null,
         "url": "https://artsandculture.google.com/asset/una-sirena-hechizando-un-marinero/8gEV7DEeOS-znQ"
     },
@@ -10011,7 +9975,7 @@
         "id": 290,
         "lat": 4.6263207614,
         "lon": -73.7516859639,
-        "filename": "Ventana (d\u00edptico) - Ana Mercedes Hoyos, 1942.jpg",
+        "filename": "Ventana (diptico) - Ana Mercedes Hoyos, 1942.jpg",
         "tropical dry forest": 0.0000004994,
         "tropical woodland": 0.0000020688,
         "evergreen mixed forest": 0.0000025179,
@@ -10038,7 +10002,7 @@
         "sand": 0.0000420864,
         "humus": 0.0000049775,
         "caption": "an artwork of two red and blue squares",
-        "title": "Ventana (d\u00edptico)",
+        "title": "Ventana (diptico)",
         "author": "Ana Mercedes Hoyos, 1942",
         "date": "1971",
         "url": "https://artsandculture.google.com/asset/ventana-d%C3%ADptico/JAGC4c48A_ldKA"
@@ -10182,10 +10146,10 @@
         "sand": 0.004295523,
         "humus": 0.0017282638,
         "caption": "an artwork of a square with a black square in the middle",
-        "title": null,
-        "author": null,
-        "date": null,
-        "url": null
+        "title": "Ventana",
+        "author": "Ana Mercedes Hoyos",
+        "date": "1942",
+        "url": "https://artsandculture.google.com/asset/ventana-ana-mercedes-hoyos/_QF0vBQkIaZGUQ?hl=es-419"
     },
     {
         "id": 295,
@@ -10543,7 +10507,7 @@
         "humus": 0.0001738136,
         "caption": "an artwork of a man in a forest",
         "title": "Violencia en la selva",
-        "author": "Ignacio G\u00f3mez Jaramillo",
+        "author": "Ignacio Gomez Jaramillo",
         "date": null,
         "url": "https://artsandculture.google.com/asset/violencia-en-la-selva/sAFpJsk2014-tw"
     },
@@ -10579,7 +10543,7 @@
         "humus": 0.0000058637,
         "caption": "an artwork of a painting of a lake",
         "title": "Vista del rio saldana",
-        "author": "Luis N\u00fa\u00f1ez Borda",
+        "author": "Luis Nunez Borda",
         "date": null,
         "url": "https://artsandculture.google.com/asset/vista-del-rio-saldana/mAEkvyLZaCb5jA"
     },
@@ -10587,7 +10551,7 @@
         "id": 305,
         "lat": 10.4653697462,
         "lon": -72.8982866566,
-        "filename": "Vista del r\u00edo Magdalena desde La Mesa - Gonzalo Ariza, 1912.jpg",
+        "filename": "Vista del rio Magdalena desde La Mesa - Gonzalo Ariza, 1912.jpg",
         "tropical dry forest": 0.0000532708,
         "tropical woodland": 0.000002584,
         "evergreen mixed forest": 0.0000165877,
@@ -10614,10 +10578,10 @@
         "sand": 0.0012267705,
         "humus": 0.0000221658,
         "caption": "an artwork of a mountain range with a bird flying over it",
-        "title": null,
-        "author": null,
-        "date": null,
-        "url": null
+        "title": "Vista del río Magdalena desde La Mesa",
+        "author": "Gonzalo Ariza",
+        "date": "1983",
+        "url": "https://artsandculture.google.com/asset/vista-del-r%C3%ADo-magdalena-desde-la-mesa-gonzalo-ariza-1912/ywFiHZ9VinT2Fg?hl=es-419"
     },
     {
         "id": 306,
@@ -10659,7 +10623,7 @@
         "id": 307,
         "lat": 3.0542691117,
         "lon": -75.5483160843,
-        "filename": "\u00c1lvaro Barrios. El Martirio de San Sebastian.jpg",
+        "filename": "Alvaro Barrios. El Martirio de San Sebastian.jpg",
         "tropical dry forest": 0.0000221471,
         "tropical woodland": 0.00018885,
         "evergreen mixed forest": 0.0000619833,
@@ -10687,7 +10651,7 @@
         "humus": 0.0039622131,
         "caption": "an artwork of a man laying on the ground",
         "title": "El Martirio de San Sebastian",
-        "author": "\u00c1lvaro Barrios",
+        "author": "Alvaro Barrios",
         "date": "1980",
         "url": "https://artsandculture.google.com/asset/%C3%81lvaro-barrios-el-martirio-de-san-sebastian/QQHPPfbAfEP3fA"
     }
