@@ -7,22 +7,24 @@ import { useTheme } from "@mui/material/styles";
 import { useStore } from "../store/useStore";
 
 export default function Square({ obj }) {
+    const theme = useTheme();
     const resetClick = useStore((state) => state.resetClick);
     const visibleDots = useStore((state) => state.visibleDots);
-    const r = 300;
+    const r = theme.thumbMaxDim;
+
     const scale = 0.25;
-    const theme = useTheme();
 
     const map = useMap();
 
+    const scaledWidth = (obj.width / Math.max(obj.width, obj.height)) * r;
+    const scaledHeight = (obj.height / Math.max(obj.width, obj.height)) * r;
     const cStyle = {
-        width: `${obj.clicked ? r : r * scale}px`,
-        height: `${obj.clicked ? r : r * scale}px`,
+        width: `${obj.clicked ? scaledWidth : r * scale}px`,
+        height: `${obj.clicked ? scaledHeight : r * scale}px`,
         opacity: 1,
         overflow: "hidden",
         margin: 0,
         padding: 0,
-
         border: "1px solid white",
     };
 

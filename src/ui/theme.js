@@ -13,6 +13,7 @@ let theme = createTheme({
     mainW: `${mainW}px`,
     imgW: mainH,
     mapRatio,
+    thumbMaxDim: (mainW - mainH) / 2,
 
     typography: {
         fontFamily: "Cotham Sans",

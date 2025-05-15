@@ -19,7 +19,7 @@ root.render(
 
 async function init() {
     try {
-        const response = await fetch("./centroid_data.json");
+        const response = await fetch("./centroid_data_aug.json");
         if (!response.ok) {
             throw new Error(`Failed to fetch data: ${response.statusText}`);
         }
