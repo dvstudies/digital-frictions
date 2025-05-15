@@ -25,11 +25,6 @@ jobs:
             - name: Build project
               run: npm run build
 
-            - name: Configure GitHub Pages
-              run: |
-                  echo 'dist' > .gitignore
-                  echo 'node_modules' >> .gitignore
-
             - name: Deploy to GitHub Pages
               uses: peaceiris/actions-gh-pages@v4
               with:

@@ -30,7 +30,7 @@ export default function Basemap() {
                     geodb[Math.floor(Math.random() * geodb.length)];
 
                 if (selection) {
-                    map.flyTo([selection.lat, selection.lon], 12, {
+                    map.flyTo([selection.lat, selection.lon], 11, {
                         animate: true,
                         duration: 1.5,
                     });
