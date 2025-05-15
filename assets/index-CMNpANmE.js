@@ -14467,7 +14467,7 @@ function t2() {
       if (m && a3.length > 0) {
         const g = a3[Math.floor(Math.random() * a3.length)];
         g && (m.flyTo([g.lat, g.lon], 11, { animate: true, duration: 1.5 }), setTimeout(() => {
-          wn.setState({ visibleDots: true }), console.log("visible dots");
+          wn.setState({ visibleDots: true });
         }, 1500));
       }
     }
@@ -14476,7 +14476,7 @@ function t2() {
   }, children: Y.jsxs(Yw, { zoom: 10, bounds: h, zoomControl: false, ref: c, maxBounds: h, style: { width: "100%", height: "100%", zIndex: 0, backgroundColor: "transparent" }, children: [Y.jsx(gy, { name: "tilelayer-pane", style: { zIndex: 11 }, children: Y.jsx(Fw, { url: "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}", attribution: "Tiles \xA9 Esri", opacity: s ? 0 : 1, eventHandlers: { add: (m) => {
     const g = m.target;
     g.getContainer().style.transition = "all 3s ease-in-out";
-  } } }) }), Y.jsx(gy, { name: "imagelayer-pane", style: { zIndex: 1 }, children: Y.jsx(Gw, { bounds: h, url: "/sat_clip_final.png", zIndex: 1, opacity: s ? 0.8 : 0 }) }), a3.length > 0 && a3.map((m, g) => Y.jsx(Jw, { obj: m }, g))] }) });
+  } } }) }), Y.jsx(gy, { name: "imagelayer-pane", style: { zIndex: 1 }, children: Y.jsx(Gw, { bounds: h, url: "./sat_clip_final.png", zIndex: 1, opacity: s ? 0.8 : 0 }) }), a3.length > 0 && a3.map((m, g) => Y.jsx(Jw, { obj: m }, g))] }) });
 }
 function vy(a3, s) {
   return `rgba(${((c) => {
