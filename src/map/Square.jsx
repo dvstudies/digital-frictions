@@ -8,6 +8,7 @@ import { useStore } from "../store/useStore";
 
 export default function Square({ obj }) {
     const resetClick = useStore((state) => state.resetClick);
+    const visibleDots = useStore((state) => state.visibleDots);
     const r = 300;
     const scale = 0.25;
     const theme = useTheme();
@@ -23,7 +24,6 @@ export default function Square({ obj }) {
         padding: 0,
 
         border: "1px solid white",
-        // transition: "all 0.5s",
     };
 
     function clickEffect() {
@@ -66,54 +66,56 @@ export default function Square({ obj }) {
 
     return (
         <>
-            <CircleMarker
-                center={[obj.lat, obj.lon]}
-                radius={5}
-                pathOptions={{
-                    fillOpacity: 1,
-                    fillColor: obj.found ? "transparent" : "white",
-                    weight: 0,
-                }}
-                eventHandlers={{
-                    click: (e) => {
-                        clickEffect();
-                    },
-                }}
-                className="square"
-            >
-                {obj.found && (
-                    <Tooltip
-                        direction="center"
-                        permanent={true}
-                        style={{
-                            backgroundColor: "transparent",
-                            border: "none",
-                            padding: 0,
-                            margin: 0,
-                            fontSize: "0px",
-
-                            zIndex: obj.clicked ? 10000 : "inherit",
-                        }}
-                    >
-                        <div
+            {visibleDots && (
+                <CircleMarker
+                    center={[obj.lat, obj.lon]}
+                    radius={10}
+                    pathOptions={{
+                        fillOpacity: 1,
+                        fillColor: obj.found ? "transparent" : "white",
+                        weight: 0,
+                    }}
+                    eventHandlers={{
+                        click: (e) => {
+                            clickEffect();
+                        },
+                    }}
+                    className="square"
+                >
+                    {obj.found && (
+                        <Tooltip
+                            direction="center"
+                            permanent={true}
                             style={{
-                                ...cStyle,
-                                borderRadius: obj.clicked ? "0%" : "100%",
+                                backgroundColor: "transparent",
+                                border: "none",
+                                padding: 0,
+                                margin: 0,
+                                fontSize: "0px",
+
+                                zIndex: obj.clicked ? 10000 : "inherit",
                             }}
                         >
-                            <img
-                                src={`images/collection/${obj.filename}`}
-                                alt=""
+                            <div
                                 style={{
-                                    width: "100%",
-                                    height: "100%",
-                                    objectFit: "cover",
+                                    ...cStyle,
+                                    borderRadius: obj.clicked ? "0%" : "100%",
                                 }}
-                            ></img>
-                        </div>
-                    </Tooltip>
-                )}
-            </CircleMarker>
+                            >
+                                <img
+                                    src={`images/collection/${obj.filename}`}
+                                    alt=""
+                                    style={{
+                                        width: "100%",
+                                        height: "100%",
+                                        objectFit: "cover",
+                                    }}
+                                ></img>
+                            </div>
+                        </Tooltip>
+                    )}
+                </CircleMarker>
+            )}
         </>
     );
 }

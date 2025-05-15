@@ -3,10 +3,11 @@ import { create } from "zustand";
 export let useStore = create((set, get) => ({
     geodb: [],
     landing: true,
+    visibleDots: false,
 
     resetClick: (obj) => {
         const geodb = get().geodb;
-        console.log("resetClick");
+
         geodb.map((e) => {
             if (e.id == obj?.id) e.clicked = true;
             else e.clicked = false;
