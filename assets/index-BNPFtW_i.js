@@ -14466,7 +14466,7 @@ function t2() {
       const m = c.current;
       if (m && a3.length > 0) {
         const g = a3[Math.floor(Math.random() * a3.length)];
-        g && (m.flyTo([g.lat, g.lon], 12, { animate: true, duration: 1.5 }), setTimeout(() => {
+        g && (m.flyTo([g.lat, g.lon], 11, { animate: true, duration: 1.5 }), setTimeout(() => {
           wn.setState({ visibleDots: true }), console.log("visible dots");
         }, 1500));
       }
