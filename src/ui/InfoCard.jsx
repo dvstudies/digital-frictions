@@ -53,7 +53,7 @@ export default function InfoCard() {
                         className="holomorphic"
                     >
                         <img
-                            src="/mambo_logo.png"
+                            src="./mambo_logo.png"
                             alt="Go to Mambo"
                             style={{
                                 width: 40,
