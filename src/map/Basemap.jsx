@@ -36,7 +36,6 @@ export default function Basemap() {
                     });
                     setTimeout(() => {
                         useStore.setState({ visibleDots: true });
-                        console.log("visible dots");
                     }, 1500);
                 }
             }
@@ -92,7 +91,7 @@ export default function Basemap() {
                 >
                     <ImageOverlay
                         bounds={bounds}
-                        url="/sat_clip_final.png"
+                        url="./sat_clip_final.png"
                         zIndex={1}
                         opacity={landing ? 0.8 : 0}
                     />
