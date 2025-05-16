@@ -13,7 +13,10 @@ export default function ImageCard({ focus }) {
     const [selectedLora, setSelectedLora] = useState(loras[0]);
 
     const options = loras.map((lora) => ({
-        label: lora.replaceAll("_diffusion_all", "").replaceAll("_", " "),
+        label:
+            lora.replaceAll("_diffusion_all", "").replaceAll("_", " ") == "oro"
+                ? "pre-hispanic"
+                : lora.replaceAll("_diffusion_all", "").replaceAll("_", " "),
         value: lora,
     }));
 
