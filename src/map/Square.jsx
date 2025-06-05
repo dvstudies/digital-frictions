@@ -74,7 +74,7 @@ export default function Square({ obj }) {
                     radius={1000}
                     pathOptions={{
                         fillOpacity: 1,
-                        fillColor: obj.found ? "transparent" : "white",
+                        fillColor: obj.found ? "transparent" : "whitesmoke",
                         weight: 0,
                     }}
                     eventHandlers={{
