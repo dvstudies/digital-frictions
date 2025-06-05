@@ -21,7 +21,7 @@ export default function About() {
                 display: "flex",
                 flexDirection: "column",
                 justifyContent: "center",
-                alignItems: "flext-start",
+                alignItems: "flex-start",
                 maxHeight: "80vh",
                 overflowY: "auto",
                 overflowX: "hidden",
