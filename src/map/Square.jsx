@@ -69,9 +69,9 @@ export default function Square({ obj }) {
     return (
         <>
             {visibleDots && (
-                <CircleMarker
+                <Circle
                     center={[obj.lat, obj.lon]}
-                    radius={10}
+                    radius={1000}
                     pathOptions={{
                         fillOpacity: 1,
                         fillColor: obj.found ? "transparent" : "white",
@@ -116,7 +116,7 @@ export default function Square({ obj }) {
                             </div>
                         </Tooltip>
                     )}
-                </CircleMarker>
+                </Circle>
             )}
         </>
     );

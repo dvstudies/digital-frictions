@@ -16,11 +16,16 @@ export default function Basemap() {
         [-4.23, -78.95],
         [12.53, -66.85],
     ];
+    const offBounds = 10;
+
+    //-82.12,-7.54,-62.93,16.76
 
     useEffect(() => {
         if (landing) {
             const map = mapRef.current;
             if (map) {
+                map.setMinZoom(0);
+                map.setMaxZoom(12);
                 map.flyToBounds(bounds, { animate: true, duration: 1 });
             }
         } else {
@@ -29,6 +34,8 @@ export default function Basemap() {
                 const selection =
                     geodb[Math.floor(Math.random() * geodb.length)];
 
+                map.setMaxZoom(12);
+                map.setMinZoom(10);
                 if (selection) {
                     map.flyTo([selection.lat, selection.lon], 11, {
                         animate: true,
@@ -59,7 +66,10 @@ export default function Basemap() {
                 bounds={bounds}
                 zoomControl={false}
                 ref={mapRef}
-                maxBounds={bounds}
+                maxBounds={bounds.map((latlng, i) => [
+                    latlng[0] + (i === 0 ? -offBounds : offBounds),
+                    latlng[1] + (i === 0 ? -offBounds : offBounds),
+                ])}
                 style={{
                     width: "100%",
                     height: "100%",

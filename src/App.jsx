@@ -6,6 +6,7 @@ import Basemap from "./map/Basemap";
 import ImageCard from "./ui/ImageCard";
 import InfoCard from "./ui/InfoCard";
 import Intro from "./ui/Intro";
+import About from "./ui/About";
 
 import { useStore } from "./store/useStore";
 
@@ -61,6 +62,7 @@ export default function App() {
                     >
                         <Intro />
                         <InfoCard />
+                        <About />
                         <Basemap />
                         <Typography
                             variant="h1"
