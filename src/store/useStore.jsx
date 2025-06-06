@@ -4,6 +4,7 @@ export let useStore = create((set, get) => ({
     geodb: [],
     landing: true,
     visibleDots: false,
+    methodology: false,
 
     resetClick: (obj) => {
         const geodb = get().geodb;

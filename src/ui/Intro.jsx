@@ -2,6 +2,7 @@ import { Box, Button, Typography, IconButton, Stack } from "@mui/material";
 
 import { useStore } from "../store/useStore";
 import QuestionMarkIcon from "@mui/icons-material/QuestionMark";
+import ArrowOutwardIcon from "@mui/icons-material/ArrowOutward";
 
 export default function Intro() {
     const landing = useStore((state) => state.landing);
@@ -98,6 +99,12 @@ export default function Intro() {
                     }}
                 >
                     Begin
+                    {/* <ArrowOutwardIcon
+                        sx={{
+                            ml: 5,
+                            fontSize: "1.2rem",
+                        }}
+                    /> */}
                 </Button>
             ) : (
                 <>

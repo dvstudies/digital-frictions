@@ -6,6 +6,7 @@ body,
     height: 100vh;
     max-height: 100vh;
     overflow: clip;
+    background-color: whitesmoke;
 }
 
 .holomorphic {
@@ -40,4 +41,24 @@ body,
     box-shadow: none !important;
     filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.5));
     opacity: 1 !important;
+}
+
+/* Transparent scrollbar background */
+::-webkit-scrollbar {
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(128, 128, 128, 0.4);
+    border-radius: 8px;
+}
+
+::-webkit-scrollbar-corner {
+    background: transparent;
+}
+
+/* Firefox */
+* {
+    scrollbar-color: rgba(128, 128, 128, 0.4) transparent;
+    scrollbar-width: thin;
 }

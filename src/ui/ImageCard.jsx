@@ -26,9 +26,10 @@ export default function ImageCard({ focus }) {
                 sx={{
                     width: "100%",
                     height: "100%",
+
                     display: "flex",
                     justifyContent: "center",
-                    alignItems: "flex-end",
+                    alignItems: "center",
                     position: "relative",
                 }}
             >
@@ -39,15 +40,16 @@ export default function ImageCard({ focus }) {
                     )}.png`}
                     alt=""
                     style={{
-                        width: "100%",
-                        height: "100%",
+                        width: "75%",
+                        height: "75%",
                         objectFit: "cover",
                         borderRadius: "20px",
                     }}
+                    className="holomorphic"
                 />
 
                 {/* Caption colophon */}
-                <Box
+                {/* <Box
                     sx={{
                         position: "absolute",
                         bottom: 0,
@@ -63,7 +65,7 @@ export default function ImageCard({ focus }) {
                     }}
                 >
                     <Typography variant="h6">{focus?.caption}</Typography>
-                </Box>
+                </Box> */}
 
                 {/* Button menu */}
                 <Box

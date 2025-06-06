@@ -7,10 +7,11 @@ import ImageCard from "./ui/ImageCard";
 import InfoCard from "./ui/InfoCard";
 import Intro from "./ui/Intro";
 import About from "./ui/About";
-
+import Methodology from "./ui/Methodology";
 import { useStore } from "./store/useStore";
 
 export default function App() {
+    const methodology = useStore((state) => state.methodology);
     const focus = useStore((state) => state.focus);
     const landing = useStore((state) => state.landing);
     const imgContainerRef = useRef(null);
@@ -31,12 +32,13 @@ export default function App() {
                 sx={{
                     width: "100vw",
                     height: "100vh",
-                    backgroundColor: "whitesmoke",
                     display: "flex",
                     flexDirection: "column",
                     justifyContent: "center",
                     alignItems: "center",
                     p: 0,
+                    transform: `translateY(${!methodology ? "0" : "-100vh"})`,
+                    transition: `transform 2s ease-in-out`,
                 }}
             >
                 <Box
@@ -64,18 +66,27 @@ export default function App() {
                         <InfoCard />
                         <About />
                         <Basemap />
-                        <Typography
-                            variant="h1"
+                        <Box
                             sx={{
                                 position: "absolute",
-                                fontWeight: "bold",
-                                opacity: landing ? 1 : 0,
+                                display: "flex",
+                                flexDirection: "column",
+                                justifyContent: "center",
+                                alignItems: "center",
                                 pointerEvents: "none",
-                                transition: `opacity ${transitionTime}s`,
                             }}
                         >
-                            Digital F(r)ictions
-                        </Typography>
+                            <Typography
+                                variant="h1"
+                                sx={{
+                                    fontWeight: "bold",
+                                    opacity: landing ? 1 : 0,
+                                    transition: `opacity ${transitionTime}s`,
+                                }}
+                            >
+                                Digital F(r)ictions
+                            </Typography>
+                        </Box>
                     </Box>
                     <Box
                         ref={imgContainerRef}
@@ -85,7 +96,8 @@ export default function App() {
                             ...boxS,
                             ml: 0,
                             mr: focus ? boxS.m : 0,
-                            border: focus ? boxS.border : "none",
+                            // border: focus ? boxS.border : "none",
+                            border: "none",
                             visibility: focus ? "visible" : "hidden",
                         }}
                     >
@@ -93,6 +105,7 @@ export default function App() {
                     </Box>
                 </Box>
             </Box>
+            <Methodology />
         </>
     );
 }
